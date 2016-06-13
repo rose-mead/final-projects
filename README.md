@@ -19,16 +19,28 @@
 
 ## karearea-2016
 
-- [CommsCompanian](https://github.com/melissa-c/Comms) : assists autistic spectrum students to communicate visually
-- [Trails](https://github.com/danieldelacruz01/trails) : explore your city, time trial
-- ?
+### [CommsCompanian](https://github.com/melissa-c/Comms)
+
+![](./images/comms_companion.png)
+
+Assists autistic spectrum students to communicate visually
+
+### [Trails](https://github.com/danieldelacruz01/trails)
+
+Explore your city, time trial
+
+
+### ?
+
 
 
 ## kakapo-2015
 
-- [Tightrope](https://github.com/kakapo2016-projects/tightrope)
-[Final Presentation](https://www.youtube.com/watch?v=E8keq_d2u6U&feature=youtu.be)
+### Tightrope
+- [Tightrope Repo](https://github.com/kakapo2016-projects/tightrope)
+- [Final Presentation](https://www.youtube.com/watch?v=E8keq_d2u6U&feature=youtu.be)
 
+### Tooth & Pail
 - [Tooth & Pail](https://github.com/kakapo2016-projects/tooth-and-pail)
-[Heroku](http://toothandpail.herokuapp.com/)
-[Final Presentation](https://www.youtube.com/watch?v=6amWNhbr9Hk&feature=youtu.be)
+- [Heroku](http://toothandpail.herokuapp.com/)
+- [Final Presentation](https://www.youtube.com/watch?v=6amWNhbr9Hk&feature=youtu.be)
