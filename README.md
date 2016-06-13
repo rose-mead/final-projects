@@ -1,23 +1,41 @@
 # final-projects
 
-## roa-2016
+## Roa-2016
 
 - ?
 - ?
 
-## kotate-2016
+## Kotate-2016
 
-- [Tandem](https://github.com/Tandem-NZ/tandem) : ride share app
+### [Tandem](https://github.com/Tandem-NZ/tandem)
+
+ride share app
+
+repo: https://github.com/Tandem-NZ/tandem
+
+## Hihi-2016
+
+### [onFleek](https://github.com/andrew-travis-wadman/TBD)
+
+social fashion hot or not 
+
+repo: https://github.com/andrew-travis-wadman/TBD
 
 
-## hihi-2016
+### [Dish Out](https://github.com/James-Sangalli/DishOut)
 
-- [onFleek](https://github.com/andrew-travis-wadman/TBD) : social fashion hot or not 
-- [Dish Out](https://github.com/James-Sangalli/DishOut) : organise potlucks better
-- [Stow](https://github.com/rawad-alawar/stow) : airb'n'b for sotrage space
+organise potlucks better
 
+repo: https://github.com/James-Sangalli/DishOut
+
+### [Stow](https://github.com/rawad-alawar/stow) 
+
+airb'n'b for sotrage space
+
+repo: https://github.com/rawad-alawar/stow
  
-## karearea-2016
+
+## Karearea-2016
 
 ### [CommsCompanian](https://github.com/melissa-c/Comms)
 
@@ -25,9 +43,13 @@
 
 Assists autistic spectrum students to communicate visually
 
+repo: https://github.com/melissa-c/Comms
+
 ### [Trails](https://github.com/danieldelacruz01/trails)
 
 Explore your city, time trial
+
+repo: https://github.com/danieldelacruz01/trails
 
 
 ### ? 
