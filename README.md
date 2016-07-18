@@ -1,20 +1,39 @@
-# final-projects
+# Final Projects
 
-## Roa-2016
+Kauri-2016
+------------
 
-- ?
-- ?
+### [Marak](https://www.marak.nz)
+
+Connecting volunteers with local events
+
+![](images/marak.png)
+
+* [Repo](https://github.com/kauri-2016/marak)
+
+
+Roa-2016
+----------
+
+### [?]
+
+?
+
+![?]()
+
+* [Repo]
+
 
 Kotate-2016
 -----------
 
 ### [Tandem](https://github.com/Tandem-NZ/tandem)
 
+Ride sharing app
+
 ![](images/tandem.png)
 
-ride share app
-
-repo: https://github.com/Tandem-NZ/tandem
+* [Repo](https://github.com/Tandem-NZ/tandem)
 
 
 Hihi-2016
@@ -22,23 +41,23 @@ Hihi-2016
 
 ### [onFleek](https://github.com/andrew-travis-wadman/TBD)
 
-social fashion hot or not 
+Social fashion hot or not 
 
-repo: https://github.com/andrew-travis-wadman/TBD
+* [Repo](https://github.com/andrew-travis-wadman/TBD)
 
 
 ### [Dish Out](https://github.com/James-Sangalli/DishOut)
 
-organise potlucks better
+Organise potlucks better
 
-repo: https://github.com/James-Sangalli/DishOut
+* [Repo](https://github.com/James-Sangalli/DishOut)
 
 
 ### [Stow](https://github.com/rawad-alawar/stow) 
 
-airb'n'b for sotrage space
+Airbnb for storage space
 
-repo: https://github.com/rawad-alawar/stow
+* [Repo](https://github.com/rawad-alawar/stow)
  
 
 Karearea-2016
@@ -46,42 +65,42 @@ Karearea-2016
 
 ### [CommsCompanian](https://github.com/melissa-c/Comms)
 
-![](./images/comms_companion.png)
-
 Assists autistic spectrum students to communicate visually
 
-repo: https://github.com/melissa-c/Comms
+![](images/comms_companion.png)
+
+* [Repo](https://github.com/melissa-c/Comms)
 
 
 ### [Trails](https://github.com/danieldelacruz01/trails)
 
 Explore your city, time trial
 
-repo: https://github.com/danieldelacruz01/trails
+* [Repo](https://github.com/danieldelacruz01/trails)
 
 
-### ?
+### [?]
 
+?
+
+* [Repo]
 
 
 Kakapo-2015
 -----------
 
-### Tightrope
+### [Tightrope](https://github.com/kakapo2016-projects/tightrope)
 
 ![](images/tightrope.png)
 
-[Final Presentation](https://www.youtube.com/watch?v=E8keq_d2u6U&feature=youtu.be)
+* [Repo](https://github.com/kakapo2016-projects/tightrope)
+* [Final Presentation](https://www.youtube.com/watch?v=E8keq_d2u6U&feature=youtu.be)
 
-repo : https://github.com/kakapo2016-projects/tightrope
 
-
-### Tooth & Pail
+### [Tooth & Pail](http://toothandpail.herokuapp.com/)
 
 ![](images/tooth_and_pail.png)
 
-- [Heroku](http://toothandpail.herokuapp.com/)
-- [Final Presentation](https://www.youtube.com/watch?v=6amWNhbr9Hk&feature=youtu.be)
-
-repo : https://github.com/kakapo2016-projects/tooth-and-pail
+* [Repo](https://github.com/kakapo2016-projects/tooth-and-pail)
+* [Final Presentation](https://www.youtube.com/watch?v=6amWNhbr9Hk&feature=youtu.be)
 
