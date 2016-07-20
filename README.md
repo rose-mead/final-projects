@@ -15,16 +15,26 @@ Connecting volunteers with local events
 Roa-2016
 ----------
 
-### [?]
+### [Pitch In](https://github.com/AuxiliumRoa)
 
-?
+Fast. Seamless. Connected. The New Standard for Volunteer Organisation.
 
-![?]()
+![](images/pitch-in.png)
 
-* [Repo]
+- Repo: https://github.com/AuxiliumRoa
+- Live App: http://pitch-in-nz.herokuapp.com/
+
+### [Eatr](https://github.com/Eatr/eatr)
+
+Tinder for eateries.
+
+![](images/eatr.png)
+
+- Repo: https://github.com/Eatr/eatr
+- Live App: https://eatr.herokuapp.com/
 
 
-Kotate-2016
+Kotare-2016
 -----------
 
 ### [Tandem](https://github.com/Tandem-NZ/tandem)
