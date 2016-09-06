@@ -11,6 +11,23 @@ Connecting volunteers with local events
 
 * [Repo](https://github.com/kauri-2016/marak)
 
+Kea-2016
+---------
+### [Beepboopbot](http://beepboopbot.com)
+
+Game where you queue up commands for a robot to execute later. Save the world!
+
+![](images/beepboopbot.png)
+
+* [Repo](https://github.com/BeepBoopBot/BeepBoopBot)
+
+### [Piro](https://piro-score.herokuapp.com/)
+
+Publish and view live scores at sports events in real time.
+
+![](images/piro.png)
+
+* [Repo](https://github.com/piro-inc/piro)
 
 Roa-2016
 ----------
