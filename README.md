@@ -1,25 +1,53 @@
 # Final Projects
 
-Kauri-2016
-------------
+
+Kahikatea 2016
+--------------
+
+### [Harvestr](http://harvestr.nz)
+
+Coordinating the delivery of surplus food to organisations that need it.
+
+![](images/harvestr.png)
+
+* [GitHub Repository](https://github.com/kahikatea-2016/harvestr)
+
+
+Nikau 2016
+----------
+
+### [Hashtag Adulting](http://www.hashtagadulting.co.nz)
+
+The best curated videos on life skills for millenials.
+
+![](images/hashtag-adulting.png)
+
+* GitHub Repositories: [Backend](https://github.com/nikau-2016/lifestack) and [Frontend](https://github.com/nikau-2016/lifestack-client)
+
+
+Kauri 2016
+----------
 
 ### [Marak](https://www.marak.nz)
 
-Connecting volunteers with local events
+Connecting volunteers with local events.
 
 ![](images/marak.png)
 
-* [Repo](https://github.com/kauri-2016/marak)
+* [GitHub Repository](https://github.com/kauri-2016/marak)
 
-Kea-2016
----------
+
+Kea 2016
+--------
+
 ### [Beepboopbot](http://beepboopbot.com)
 
 Game where you queue up commands for a robot to execute later. Save the world!
 
 ![](images/beepboopbot.png)
 
-* [Repo](https://github.com/BeepBoopBot/BeepBoopBot)
+* [GitHub Repository](https://github.com/BeepBoopBot/BeepBoopBot)
+
 
 ### [Piro](https://piro-score.herokuapp.com/)
 
@@ -27,100 +55,93 @@ Publish and view live scores at sports events in real time.
 
 ![](images/piro.png)
 
-* [Repo](https://github.com/piro-inc/piro)
+* [GitHub Repository](https://github.com/piro-inc/piro)
 
-Roa-2016
-----------
 
-### [Pitch In](https://github.com/AuxiliumRoa)
+Roa 2016
+--------
+
+### [Pitch In](http://pitch-in-nz.herokuapp.com)
 
 Fast. Seamless. Connected. The New Standard for Volunteer Organisation.
 
 ![](images/pitch-in.png)
 
-- Repo: https://github.com/AuxiliumRoa
-- Live App: http://pitch-in-nz.herokuapp.com/
+* [GitHub Repository](https://github.com/AuxiliumRoa)
 
-### [Eatr](https://github.com/Eatr/eatr)
+
+### [Eatr](https://eatr.herokuapp.com)
 
 Tinder for eateries.
 
 ![](images/eatr.png)
 
-- Repo: https://github.com/Eatr/eatr
-- Live App: https://eatr.herokuapp.com/
+* [GitHub Repository](https://github.com/Eatr/eatr)
 
 
-Kotare-2016
+Kotare 2016
 -----------
 
 ### [Tandem](https://github.com/Tandem-NZ/tandem)
 
-Ride sharing app
+Ride sharing app.
 
 ![](images/tandem.png)
 
-* [Repo](https://github.com/Tandem-NZ/tandem)
+* [GitHub Repository](https://github.com/Tandem-NZ/tandem)
 
 
-Hihi-2016
+Hihi 2016
 ---------
 
 ### [onFleek](https://github.com/andrew-travis-wadman/TBD)
 
-Social fashion hot or not 
+Social fashion hot or not.
 
-* [Repo](https://github.com/andrew-travis-wadman/TBD)
+* [GitHub Repository](https://github.com/andrew-travis-wadman/TBD)
 
 
 ### [Dish Out](https://github.com/James-Sangalli/DishOut)
 
-Organise potlucks better
+Organise potlucks better.
 
-* [Repo](https://github.com/James-Sangalli/DishOut)
+* [GitHub Repository](https://github.com/James-Sangalli/DishOut)
 
 
 ### [Stow](https://github.com/rawad-alawar/stow) 
 
-Airbnb for storage space
+Airbnb for storage space.
 
-* [Repo](https://github.com/rawad-alawar/stow)
+* [GitHub Repository](https://github.com/rawad-alawar/stow)
  
 
-Karearea-2016
+Karearea 2016
 -------------
 
 ### [CommsCompanian](https://github.com/melissa-c/Comms)
 
-Assists autistic spectrum students to communicate visually
+Assists autistic spectrum students to communicate visually.
 
 ![](images/comms_companion.png)
 
-* [Repo](https://github.com/melissa-c/Comms)
+* [GitHub Repository](https://github.com/melissa-c/Comms)
 
 
 ### [Trails](https://github.com/danieldelacruz01/trails)
 
-Explore your city, time trial
+Explore your city, time trial.
 
-* [Repo](https://github.com/danieldelacruz01/trails)
-
-
-### [?]
-
-?
-
-* [Repo]
+* [GitHub Repository](https://github.com/danieldelacruz01/trails)
 
 
-Kakapo-2015
+Kakapo 2015
 -----------
 
 ### [Tightrope](https://github.com/kakapo2016-projects/tightrope)
 
 ![](images/tightrope.png)
 
-* [Repo](https://github.com/kakapo2016-projects/tightrope)
+* [GitHub Repository](https://github.com/kakapo2016-projects/tightrope)
 * [Final Presentation](https://www.youtube.com/watch?v=E8keq_d2u6U&feature=youtu.be)
 
 
@@ -128,6 +149,6 @@ Kakapo-2015
 
 ![](images/tooth_and_pail.png)
 
-* [Repo](https://github.com/kakapo2016-projects/tooth-and-pail)
+* [GitHub Repository](https://github.com/kakapo2016-projects/tooth-and-pail)
 * [Final Presentation](https://www.youtube.com/watch?v=6amWNhbr9Hk&feature=youtu.be)
 
