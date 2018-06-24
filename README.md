@@ -1,5 +1,83 @@
 # Final Projects
 
+Mamaku 2018
+--------------
+### []()
+
+Coordinating the delivery of surplus food to organisations that need it.
+
+![](images/)
+
+* [GitHub Repository](https://github.com/mamaku-2018/)
+
+### []()
+
+Coordinating the delivery of surplus food to organisations that need it.
+
+![](images/)
+
+* [GitHub Repository](https://github.com/mamaku-2018/)
+
+
+Kauri 2018
+--------------
+### [Pro Bono]()
+
+Pro-bono was created for the Auckland Community Law Centre to create better connections between Lawyers and pro-bono cases.
+
+![](images/)
+
+* [GitHub Repository](https://github.com/Kauri-2018/pro-bono)
+
+### [Loyalty]()
+
+A white label app for tracking customer loyalty to your business. Built in the case of Auckland Zoo and their Members of the Zoo loyalty club.
+
+![](images/)
+
+* [GitHub Repository](https://github.com/Kauri-2018/loyalty-web)
+* [GitHub Repository](https://github.com/Kauri-2018/loyalty-app)
+
+
+Harakeke 2018
+--------------
+### [Marāma](http://)
+
+Mārama is a centralised platform for study and funding opportunities available in Aotearoa.
+
+![](images/)
+
+* [GitHub Repository](https://github.com/Marama-App/marama)
+
+### [DeltΔge](http://)
+
+A cryptocurrency tool to help find and act on arbitrage opportunities.
+
+![](images/)
+
+* [GitHub Repository](https://github.com/TylerGriffin99/Deltage/tree/deployment)
+
+### [DRM](http://)
+
+Managing essential resources such as food, water, shelter in different disaster centers.
+
+![](images/)
+
+* [GitHub Repository](https://github.com/harakeke-2018/drm)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 Kahikatea 2016
 --------------
