@@ -4,17 +4,17 @@ Mamaku 2018
 --------------
 ### []()
 
-Coordinating the delivery of surplus food to organisations that need it.
+<!-- description -->
 
-![](images/)
+<!-- ![](images/) -->
 
 * [GitHub Repository](https://github.com/mamaku-2018/)
 
 ### []()
 
-Coordinating the delivery of surplus food to organisations that need it.
+<!-- description -->
 
-![](images/)
+<!-- ![](images/) -->
 
 * [GitHub Repository](https://github.com/mamaku-2018/)
 
