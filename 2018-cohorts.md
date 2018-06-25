@@ -1,7 +1,7 @@
 # Cohorts of 2018
 
-## Mamaku 2018
---------------
+Mamaku 2018
+-----------
 
 ### []()
 
@@ -20,8 +20,8 @@
 * [GitHub Repository](https://github.com/mamaku-2018/)
 
 
-## Ruru 2018
---------------
+Ruru 2018
+---------
 
 ### []()
 
@@ -32,8 +32,8 @@
 * [GitHub Repository](https://github.com/ruru-2018/)
 
 
-## Kauri 2018
--------------
+Kauri 2018
+----------
 
 ### [Pro Bono](http://pro-bono-test.herokuapp.com)
 
@@ -54,8 +54,8 @@ A white label app for tracking customer loyalty to your business. Built in the c
 * [GitHub Repository](https://github.com/Kauri-2018/loyalty-app)
 
 
-## Kokako 2018
---------------
+Kokako 2018
+-----------
 
 ### []()
 
@@ -66,8 +66,8 @@ A white label app for tracking customer loyalty to your business. Built in the c
 * [GitHub Repository](https://github.com/kokako-2018/)
 
 
-## Harakeke 2018
-----------------
+Harakeke 2018
+-------------
 
 ### [Marāma](http://)
 
@@ -93,8 +93,8 @@ Managing essential resources such as food, water, shelter in different disaster 
 
 * [GitHub Repository](https://github.com/harakeke-2018/drm)
 
-## Kahu 2018
---------------
+Kahu 2018
+---------
 
 ### []()
 

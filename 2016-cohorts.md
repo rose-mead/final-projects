@@ -1,7 +1,7 @@
 
 
-## Kowhai 2016
---------------
+Kowhai 2016
+-----------
 
 ### []()
 
@@ -12,8 +12,8 @@
 * [GitHub Repository](https://github.com/kowhai-2016/)
 
 
-## Weka 2016
-------------
+Weka 2016
+---------
 
 ### []()
 
@@ -24,8 +24,8 @@
 * [GitHub Repository](https://github.com/weka-2016/)
 
 
-## Piwakawaka 2016
-------------------
+Piwakawaka 2016
+---------------
 
 ### []()
 
@@ -36,8 +36,8 @@
 * [GitHub Repository](https://github.com/piwakawaka-2016/)
 
 
-## Kokako 2016
---------------
+Kokako 2016
+-----------
 
 ### []()
 
@@ -48,8 +48,8 @@
 * [GitHub Repository](https://github.com/kokako-2016/)
 
 
-## Kereru 2016
---------------
+Kereru 2016
+-----------
 
 ### []()
 
@@ -60,8 +60,8 @@
 * [GitHub Repository](https://github.com/kereru-2016/)
 
 
-## Kahikatea 2016
------------------
+Kahikatea 2016
+--------------
 
 ### [Harvestr](http://harvestr.nz)
 
@@ -72,8 +72,8 @@ Coordinating the delivery of surplus food to organisations that need it.
 * [GitHub Repository](https://github.com/kahikatea-2016/harvestr)
 
 
-## Nikau 2016
--------------
+Nikau 2016
+----------
 
 ### [Hashtag Adulting](http://www.hashtagadulting.co.nz)
 
@@ -84,8 +84,8 @@ The best curated videos on life skills for millenials.
 * GitHub Repositories: [Backend](https://github.com/nikau-2016/lifestack) and [Frontend](https://github.com/nikau-2016/lifestack-client)
 
 
-## Kauri 2016
--------------
+Kauri 2016
+----------
 
 ### [Marak](https://www.marak.nz)
 
@@ -96,8 +96,8 @@ Connecting volunteers with local events.
 * [GitHub Repository](https://github.com/kauri-2016/marak)
 
 
-## Kea 2016
------------
+Kea 2016
+--------
 
 ### [Beepboopbot](http://beepboopbot.com)
 
@@ -117,8 +117,8 @@ Publish and view live scores at sports events in real time.
 * [GitHub Repository](https://github.com/piro-inc/piro)
 
 
-## Roa 2016
------------
+Roa 2016
+--------
 
 ### [Pitch In](http://pitch-in-nz.herokuapp.com)
 
@@ -138,8 +138,8 @@ Tinder for eateries.
 * [GitHub Repository](https://github.com/Eatr/eatr)
 
 
-## Kotare 2016
---------------
+Kotare 2016
+-----------
 
 ### [Tandem](https://github.com/Tandem-NZ/tandem)
 
@@ -150,8 +150,8 @@ Ride sharing app.
 * [GitHub Repository](https://github.com/Tandem-NZ/tandem)
 
 
-## Hihi 2016
-------------
+Hihi 2016
+---------
 
 ### [onFleek](https://github.com/andrew-travis-wadman/TBD)
 
@@ -174,8 +174,8 @@ Airbnb for storage space.
 * [GitHub Repository](https://github.com/rawad-alawar/stow)
  
 
-## Karearea 2016
-----------------
+Karearea 2016
+-------------
 
 ### [CommsCompanian](https://github.com/melissa-c/Comms)
 
@@ -193,8 +193,8 @@ Explore your city, time trial.
 * [GitHub Repository](https://github.com/danieldelacruz01/trails)
 
 
-## Kakapo 2016
---------------
+Kakapo 2016
+-----------
 
 ### [Tightrope](https://github.com/kakapo2016-projects/tightrope)
 
