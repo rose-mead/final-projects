@@ -1,7 +1,45 @@
 # Final Projects
 
-Mamaku 2018
+Final projects for all cohorts.
+
+## Cohorts
+
+### Auckland
+- [Mamaku 2018](#mamaku-2018)
+- [Kauri 2018](#kauri-2018)
+- [Harakeke 2018](#harakeke-2018)
+
+- [](#)
+- [](#)
+- [](#)
+
+- [Matai 2017](#matai-2017)
+- [Kowhai 2017](#kowhai-2017)
+- [Pohutukawa 2017](#pohutukawa-2017)
+- [Horoeka 2017](#horoeka-2017)
+- [Kahikatea 2016](#kahikatea-2016)
+- [Nikau 2016](#nikau-2016)
+- [Kauri 2016](#kauri-2016)
+
+### Wellington
+- [Kōkako 2018](#kōkako-2018)
+
+- [Weka 201X](#weka-201X)
+- [Piwakawaka 201X](#piwakawaka-201X)
+- [Kahu 201X](#kahu-201X)
+
+- [Kea 2016](#kea-2016)
+- [Roa 2016](#roa-2016)
+- [Kotare 2016](#kotare-2016)
+- [Hihi 2016](#hihi-2016)
+- [Karearea 2016](#karearea-2016)
+- [Kakapo 2015](#kakapo-2015)
+
+
+
+## Mamaku 2018
 --------------
+
 ### []()
 
 <!-- description -->
@@ -19,9 +57,10 @@ Mamaku 2018
 * [GitHub Repository](https://github.com/mamaku-2018/)
 
 
-Kauri 2018
---------------
-### [Pro Bono]()
+## Kauri 2018
+-------------
+
+### [Pro Bono](http://pro-bono-test.herokuapp.com)
 
 Pro-bono was created for the Auckland Community Law Centre to create better connections between Lawyers and pro-bono cases.
 
@@ -39,13 +78,14 @@ A white label app for tracking customer loyalty to your business. Built in the c
 * [GitHub Repository](https://github.com/Kauri-2018/loyalty-app)
 
 
-Harakeke 2018
---------------
+## Harakeke 2018
+----------------
+
 ### [Marāma](http://)
 
 Mārama is a centralised platform for study and funding opportunities available in Aotearoa.
 
-![](images/)
+![](images/marama.png)
 
 * [GitHub Repository](https://github.com/Marama-App/marama)
 
@@ -69,18 +109,107 @@ Managing essential resources such as food, water, shelter in different disaster 
 
 
 
+## Matai 2017
+-------------
+
+### []()
+
+<!-- description -->
+
+<!-- ![](images/) -->
+
+* [GitHub Repository](https://github.com/matai-2018/)
 
 
-
-
-
-
-
-
-
-
-Kahikatea 2016
+## Kowhai 2017
 --------------
+
+### []()
+
+<!-- description -->
+
+<!-- ![](images/) -->
+
+* [GitHub Repository](https://github.com/kowhai-2017/)
+
+
+## Pohutukawa 2017
+------------------
+
+### []()
+
+<!-- description -->
+
+<!-- ![](images/) -->
+
+* [GitHub Repository](https://github.com/pohutukawa-2017/)
+
+
+## Horoeka 2017
+---------------
+
+### []()
+
+<!-- description -->
+
+<!-- ![](images/) -->
+
+* [GitHub Repository](https://github.com/horoeka-2017/)
+
+
+## Weka 201X
+------------
+
+### []()
+
+<!-- description -->
+
+<!-- ![](images/) -->
+
+* [GitHub Repository](https://github.com/weka-201X/)
+
+
+## Piwakawaka 201X
+------------------
+
+### []()
+
+<!-- description -->
+
+<!-- ![](images/) -->
+
+* [GitHub Repository](https://github.com/piwakawaka-201X/)
+
+
+## Kōkako 201X
+--------------
+
+### []()
+
+<!-- description -->
+
+<!-- ![](images/) -->
+
+* [GitHub Repository](https://github.com/kokako-201X/)
+
+## Kahu 201X
+------------
+
+### []()
+
+<!-- description -->
+
+<!-- ![](images/) -->
+
+* [GitHub Repository](https://github.com/kahu-201X/)
+
+
+
+
+
+
+## Kahikatea 2016
+-----------------
 
 ### [Harvestr](http://harvestr.nz)
 
@@ -91,8 +220,8 @@ Coordinating the delivery of surplus food to organisations that need it.
 * [GitHub Repository](https://github.com/kahikatea-2016/harvestr)
 
 
-Nikau 2016
-----------
+## Nikau 2016
+-------------
 
 ### [Hashtag Adulting](http://www.hashtagadulting.co.nz)
 
@@ -103,8 +232,8 @@ The best curated videos on life skills for millenials.
 * GitHub Repositories: [Backend](https://github.com/nikau-2016/lifestack) and [Frontend](https://github.com/nikau-2016/lifestack-client)
 
 
-Kauri 2016
-----------
+## Kauri 2016
+-------------
 
 ### [Marak](https://www.marak.nz)
 
@@ -115,8 +244,8 @@ Connecting volunteers with local events.
 * [GitHub Repository](https://github.com/kauri-2016/marak)
 
 
-Kea 2016
---------
+## Kea 2016
+-----------
 
 ### [Beepboopbot](http://beepboopbot.com)
 
@@ -136,8 +265,8 @@ Publish and view live scores at sports events in real time.
 * [GitHub Repository](https://github.com/piro-inc/piro)
 
 
-Roa 2016
---------
+## Roa 2016
+-----------
 
 ### [Pitch In](http://pitch-in-nz.herokuapp.com)
 
@@ -157,8 +286,8 @@ Tinder for eateries.
 * [GitHub Repository](https://github.com/Eatr/eatr)
 
 
-Kotare 2016
------------
+## Kotare 2016
+--------------
 
 ### [Tandem](https://github.com/Tandem-NZ/tandem)
 
@@ -169,8 +298,8 @@ Ride sharing app.
 * [GitHub Repository](https://github.com/Tandem-NZ/tandem)
 
 
-Hihi 2016
----------
+## Hihi 2016
+------------
 
 ### [onFleek](https://github.com/andrew-travis-wadman/TBD)
 
@@ -193,14 +322,14 @@ Airbnb for storage space.
 * [GitHub Repository](https://github.com/rawad-alawar/stow)
  
 
-Karearea 2016
--------------
+## Karearea 2016
+----------------
 
 ### [CommsCompanian](https://github.com/melissa-c/Comms)
 
 Assists autistic spectrum students to communicate visually.
 
-![](images/comms_companion.png)
+![](images/comms-companion.png)
 
 * [GitHub Repository](https://github.com/melissa-c/Comms)
 
@@ -212,8 +341,8 @@ Explore your city, time trial.
 * [GitHub Repository](https://github.com/danieldelacruz01/trails)
 
 
-Kakapo 2015
------------
+## Kakapo 2015
+--------------
 
 ### [Tightrope](https://github.com/kakapo2016-projects/tightrope)
 
@@ -225,7 +354,7 @@ Kakapo 2015
 
 ### [Tooth & Pail](http://toothandpail.herokuapp.com/)
 
-![](images/tooth_and_pail.png)
+![](images/tooth-and-pail.png)
 
 * [GitHub Repository](https://github.com/kakapo2016-projects/tooth-and-pail)
 * [Final Presentation](https://www.youtube.com/watch?v=6amWNhbr9Hk&feature=youtu.be)
