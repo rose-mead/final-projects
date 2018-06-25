@@ -341,7 +341,7 @@ Explore your city, time trial.
 * [GitHub Repository](https://github.com/danieldelacruz01/trails)
 
 
-## Kakapo 2015
+## Kakapo 2016
 --------------
 
 ### [Tightrope](https://github.com/kakapo2016-projects/tightrope)
