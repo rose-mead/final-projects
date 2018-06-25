@@ -9,31 +9,38 @@ Final projects for all cohorts.
 - [Kauri 2018](#kauri-2018)
 - [Harakeke 2018](#harakeke-2018)
 
-- [](#)
-- [](#)
-- [](#)
-
-- [Matai 2017](#matai-2017)
-- [Kowhai 2017](#kowhai-2017)
-- [Pohutukawa 2017](#pohutukawa-2017)
 - [Horoeka 2017](#horoeka-2017)
+- [Pohutukawa 2017](#pohutukawa-2017)
+- [Matai 2017](#matai-2017)
+
+- [Kowhai 2016](#kowhai-2016)
 - [Kahikatea 2016](#kahikatea-2016)
 - [Nikau 2016](#nikau-2016)
 - [Kauri 2016](#kauri-2016)
 
 ### Wellington
+- [Ruru 2018](#ruru-2018)
 - [Kōkako 2018](#kōkako-2018)
+- [Kahu 2018](#kahu-2018)
 
-- [Weka 201X](#weka-201X)
-- [Piwakawaka 201X](#piwakawaka-201X)
-- [Kahu 201X](#kahu-201X)
+- [Miromiro 2017](#miromiro-2017)
+- [Kea 2017](#kea-2017)
+- [Hihi 2017](#hihi-2017)
+- [Kakapo 2017](#kakapo-2017)
+
+- [Weka 2016](#weka-2016)
+- [Piwakawaka 2016](#piwakawaka-2016)
+- [Kōkako 2016](#kōkako-2016)
+- [Kereru 2016](#kereru-2016)
 
 - [Kea 2016](#kea-2016)
 - [Roa 2016](#roa-2016)
 - [Kotare 2016](#kotare-2016)
 - [Hihi 2016](#hihi-2016)
 - [Karearea 2016](#karearea-2016)
+
 - [Kakapo 2015](#kakapo-2015)
+
 
 
 
@@ -57,6 +64,18 @@ Final projects for all cohorts.
 * [GitHub Repository](https://github.com/mamaku-2018/)
 
 
+## Ruru 2018
+--------------
+
+### []()
+
+<!-- description -->
+
+<!-- ![](images/) -->
+
+* [GitHub Repository](https://github.com/ruru-2018/)
+
+
 ## Kauri 2018
 -------------
 
@@ -64,7 +83,7 @@ Final projects for all cohorts.
 
 Pro-bono was created for the Auckland Community Law Centre to create better connections between Lawyers and pro-bono cases.
 
-![](images/)
+![](images/pro-bono.png)
 
 * [GitHub Repository](https://github.com/Kauri-2018/pro-bono)
 
@@ -72,10 +91,23 @@ Pro-bono was created for the Auckland Community Law Centre to create better conn
 
 A white label app for tracking customer loyalty to your business. Built in the case of Auckland Zoo and their Members of the Zoo loyalty club.
 
-![](images/)
+![](images/loyalty-web.png)
+![](images/loyalty-app.png)
 
 * [GitHub Repository](https://github.com/Kauri-2018/loyalty-web)
 * [GitHub Repository](https://github.com/Kauri-2018/loyalty-app)
+
+
+## Kokako 2018
+--------------
+
+### []()
+
+<!-- description -->
+
+<!-- ![](images/) -->
+
+* [GitHub Repository](https://github.com/kokako-2018/)
 
 
 ## Harakeke 2018
@@ -106,7 +138,76 @@ Managing essential resources such as food, water, shelter in different disaster 
 * [GitHub Repository](https://github.com/harakeke-2018/drm)
 
 
+## Kahu 2018
+--------------
 
+### []()
+
+<!-- description -->
+
+<!-- ![](images/) -->
+
+* [GitHub Repository](https://github.com/kahu-2018/)
+
+
+## Miromiro 2017
+----------------
+
+### [Kai Time](https://kaitime.herokuapp.com/#/)
+
+A place to promote vegetarian cooking and eating, where you can create a profile, and earn points by adding and sharing recipes.
+
+<!-- ![](images/) -->
+
+* [GitHub Repository](https://github.com/Kai-Time/kai-time)
+
+
+## Horoeka 2017
+--------------
+
+### []()
+
+<!-- description -->
+
+<!-- ![](images/) -->
+
+* [GitHub Repository](https://github.com/horoeka-2017/)
+
+
+## Kea 2017
+--------------
+
+### []()
+
+<!-- description -->
+
+<!-- ![](images/) -->
+
+* [GitHub Repository](https://github.com/kea-2017/)
+
+
+## Pohutukawa 2017
+--------------
+
+### []()
+
+<!-- description -->
+
+<!-- ![](images/) -->
+
+* [GitHub Repository](https://github.com/pohutukawa-2017/)
+
+
+## Hihi 2017
+--------------
+
+### []()
+
+<!-- description -->
+
+<!-- ![](images/) -->
+
+* [GitHub Repository](https://github.com/hihi-2017/)
 
 
 ## Matai 2017
@@ -121,7 +222,7 @@ Managing essential resources such as food, water, shelter in different disaster 
 * [GitHub Repository](https://github.com/matai-2018/)
 
 
-## Kowhai 2017
+## Kakapo 2017
 --------------
 
 ### []()
@@ -130,58 +231,10 @@ Managing essential resources such as food, water, shelter in different disaster 
 
 <!-- ![](images/) -->
 
-* [GitHub Repository](https://github.com/kowhai-2017/)
+* [GitHub Repository](https://github.com/kakapo-2017/)
 
 
-## Pohutukawa 2017
-------------------
-
-### []()
-
-<!-- description -->
-
-<!-- ![](images/) -->
-
-* [GitHub Repository](https://github.com/pohutukawa-2017/)
-
-
-## Horoeka 2017
----------------
-
-### []()
-
-<!-- description -->
-
-<!-- ![](images/) -->
-
-* [GitHub Repository](https://github.com/horoeka-2017/)
-
-
-## Weka 201X
-------------
-
-### []()
-
-<!-- description -->
-
-<!-- ![](images/) -->
-
-* [GitHub Repository](https://github.com/weka-201X/)
-
-
-## Piwakawaka 201X
-------------------
-
-### []()
-
-<!-- description -->
-
-<!-- ![](images/) -->
-
-* [GitHub Repository](https://github.com/piwakawaka-201X/)
-
-
-## Kōkako 201X
+## Kowhai 2016
 --------------
 
 ### []()
@@ -190,9 +243,10 @@ Managing essential resources such as food, water, shelter in different disaster 
 
 <!-- ![](images/) -->
 
-* [GitHub Repository](https://github.com/kokako-201X/)
+* [GitHub Repository](https://github.com/kowhai-2016/)
 
-## Kahu 201X
+
+## Weka 2016
 ------------
 
 ### []()
@@ -201,7 +255,47 @@ Managing essential resources such as food, water, shelter in different disaster 
 
 <!-- ![](images/) -->
 
-* [GitHub Repository](https://github.com/kahu-201X/)
+* [GitHub Repository](https://github.com/weka-2016/)
+
+
+## Piwakawaka 2016
+------------------
+
+### []()
+
+<!-- description -->
+
+<!-- ![](images/) -->
+
+* [GitHub Repository](https://github.com/piwakawaka-2016/)
+
+
+## Kokako 2016
+--------------
+
+### []()
+
+<!-- description -->
+
+<!-- ![](images/) -->
+
+* [GitHub Repository](https://github.com/kokako-2016/)
+
+
+## Kereru 2016
+--------------
+
+### []()
+
+<!-- description -->
+
+<!-- ![](images/) -->
+
+* [GitHub Repository](https://github.com/kereru-2016/)
+
+
+
+
 
 
 
