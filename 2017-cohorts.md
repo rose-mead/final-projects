@@ -7,9 +7,17 @@ Miromiro 2017
 
 A place to promote vegetarian cooking and eating, where you can create a profile, and earn points by adding and sharing recipes.
 
-<!-- ![](images/2017/) -->
+![](images/2017/kai-time.png)
 
 * [GitHub Repository](https://github.com/Kai-Time/kai-time)
+
+### [Spoken, not Stirred](https://miromiro-grad-project.herokuapp.com/)
+
+It's time to see if you've got what it takes to foot it with your favourite movie stars, as they deliver some of the best one-liners of all time... This is the ultimate party game.
+
+![](images/2017/spoken-not-stirred.png)
+
+* [GitHub Repository](https://github.com/don-harris/final-project)
 
 
 Horoeka 2017
@@ -27,13 +35,13 @@ Horoeka 2017
 Kea 2017
 --------
 
-### []()
+### [Dog Go](https://github.com/AnnahGerletti/dog-go)
 
-<!-- description -->
+The uber app for dog walkers.
 
-<!-- ![](images/2017/) -->
+![](images/2017/dog-go.png)
 
-* [GitHub Repository](https://github.com/kea-2017/)
+* [GitHub Repository](https://github.com/AnnahGerletti/dog-go)
 
 
 Pohutukawa 2017
