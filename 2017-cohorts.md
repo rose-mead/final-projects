@@ -27,7 +27,7 @@ Horoeka 2017
 
 A web app built to help charities connect with businesses to provide food for those who need it, and reduce food waste.
 
-![](images/2017/feedr)
+![](images/2017/feedr.png)
 
 * [GitHub Repository](https://github.com/james-inglis-01/feedr)
 
@@ -51,7 +51,7 @@ Pohutukawa 2017
 
 Booking app for Te Whare Piringa Community Centre.
 
-![](images/2017/te-whare-piringa-booking)
+![](images/2017/te-whare-piringa-booking.png)
 
 * [GitHub Repository](https://github.com/Jae-Huh/te-whare-piringa-booking)
 
@@ -81,7 +81,7 @@ Gitmaster is an interactive point and click adventure game that demonstrates the
 
 An awesome app that generates a Spotify playlist based on gigs you wanna checkout.
 
-<!-- ![](images/2017/) -->
+![](images/2017/upstage.png)
 
 * [GitHub Repository](https://github.com/Giggify/Upstage)
 
@@ -93,7 +93,7 @@ Matai 2017
 
 This website enables users to vote and comment on government bills and legislation.
 
-![](images/2017/bills-world)
+![](images/2017/bills-world.png)
 
 * [GitHub Repository](https://github.com/matai-2016/Bills-World)
 
