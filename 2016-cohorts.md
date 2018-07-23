@@ -1,15 +1,15 @@
-
+# Cohorts of 2016
 
 Kowhai 2016
 -----------
 
-### []()
+### [FlatMe](https://github.com/kowhai-2016/flatme)
 
-<!-- description -->
+A flat management app.
 
 <!-- ![](images/2016/) -->
 
-* [GitHub Repository](https://github.com/kowhai-2016/)
+* [GitHub Repository](https://github.com/kowhai-2016/flatme)
 
 
 Weka 2016
@@ -27,14 +27,13 @@ Weka 2016
 Piwakawaka 2016
 ---------------
 
-### []()
+### [Top of the Flops](https://topoftheflops.github.io/client-side/)
 
-<!-- description -->
+Sharing useless talents with the world.
 
-<!-- ![](images/2016/) -->
+![](images/2016/top-of-the-flops)
 
-* [GitHub Repository](https://github.com/piwakawaka-2016/)
-
+* GitHub Repositories: [Backend](https://github.com/TopOfTheFlops/server-side) and [Frontend](https://github.com/TopOfTheFlops/client-side)
 
 Kokako 2016
 -----------
@@ -45,7 +44,7 @@ Kokako 2016
 
 <!-- ![](images/2016/) -->
 
-* [GitHub Repository](https://github.com/kokako-2016/)
+* [GitHub Repository](https://github.com/Kokako-2016/)
 
 
 Kereru 2016
