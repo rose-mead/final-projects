@@ -3,21 +3,21 @@
 Mamaku 2018
 -----------
 
-### []()
+### [Meals 4 Mates]()
 
 <!-- description -->
 
 <!-- ![](images/2018/) -->
 
-* [GitHub Repository](https://github.com/mamaku-2018/)
+* [GitHub Repository](https://github.com/mamaku-2018/Meals4Mates)
 
-### []()
+### [Emotional Map]()
 
 <!-- description -->
 
 <!-- ![](images/2018/) -->
 
-* [GitHub Repository](https://github.com/mamaku-2018/)
+* [GitHub Repository](https://github.com/mamaku-2018/Emotional_Map)
 
 
 Ruru 2018
@@ -50,20 +50,29 @@ A white label app for tracking customer loyalty to your business. Built in the c
 ![](images/2018/loyalty-web.png)
 ![](images/2018/loyalty-app.png)
 
-* [GitHub Repository](https://github.com/Kauri-2018/loyalty-web)
-* [GitHub Repository](https://github.com/Kauri-2018/loyalty-app)
+* GitHub Repository: [Web](https://github.com/Kauri-2018/loyalty-web) and [mobile](https://github.com/Kauri-2018/loyalty-app)
 
 
 Kokako 2018
 -----------
 
-### []()
+### [Embracing Blue](http://embracing-blue.herokuapp.com/)
 
-<!-- description -->
+Mental health resources for those affected and their communities.
 
-<!-- ![](images/2018/) -->
+![](images/2018/embracing-blue.png)
 
-* [GitHub Repository](https://github.com/kokako-2018/)
+* [GitHub Repository](https://github.com/Kokako-2018/Embracing-Blue)
+
+
+
+### [Shop Bro]()
+
+<!-- Mental health resources for those affected and their communities. -->
+
+![](images/2018/shop-bro.png)
+
+* [GitHub Repository](https://github.com/Kokako-2018/shop-bro)
 
 
 Harakeke 2018
@@ -75,13 +84,13 @@ Mārama is a centralised platform for study and funding opportunities available 
 
 ![](images/2018/marama.png)
 
-* [GitHub Repository](https://github.com/Marama-App/marama)
+* [GitHub Repository](https://github.com/Marama-App/marama.png)
 
 ### [DeltΔge](http://)
 
 A cryptocurrency tool to help find and act on arbitrage opportunities.
 
-![](images/2018/)
+<!-- ![](images/2018/) -->
 
 * [GitHub Repository](https://github.com/TylerGriffin99/Deltage/tree/deployment)
 
@@ -89,7 +98,7 @@ A cryptocurrency tool to help find and act on arbitrage opportunities.
 
 Managing essential resources such as food, water, shelter in different disaster centers.
 
-![](images/2018/)
+<!-- ![](images/2018/) -->
 
 * [GitHub Repository](https://github.com/harakeke-2018/drm)
 
