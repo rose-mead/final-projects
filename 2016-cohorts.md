@@ -31,7 +31,7 @@ Piwakawaka 2016
 
 Sharing useless talents with the world.
 
-![](images/2016/top-of-the-flops)
+![](images/2016/top-of-the-flops.png)
 
 * GitHub Repositories: [Backend](https://github.com/TopOfTheFlops/server-side) and [Frontend](https://github.com/TopOfTheFlops/client-side)
 
@@ -156,6 +156,8 @@ Hihi 2016
 
 Social fashion hot or not.
 
+<!-- ![](images/2016/.png) -->
+
 * [GitHub Repository](https://github.com/andrew-travis-wadman/TBD)
 
 
@@ -163,12 +165,16 @@ Social fashion hot or not.
 
 Organise potlucks better.
 
+<!-- ![](images/2016/.png) -->
+
 * [GitHub Repository](https://github.com/James-Sangalli/DishOut)
 
 
 ### [Stow](https://github.com/rawad-alawar/stow) 
 
 Airbnb for storage space.
+
+<!-- ![](images/2016/.png) -->
 
 * [GitHub Repository](https://github.com/rawad-alawar/stow)
  
@@ -188,6 +194,8 @@ Assists autistic spectrum students to communicate visually.
 ### [Trails](https://github.com/danieldelacruz01/trails)
 
 Explore your city, time trial.
+
+<!-- ![](images/2016/.png) -->
 
 * [GitHub Repository](https://github.com/danieldelacruz01/trails)
 
