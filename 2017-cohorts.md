@@ -1,4 +1,4 @@
-# Cohorts of 2018
+# Cohorts of 2017
 
 Miromiro 2017
 -------------
@@ -23,13 +23,13 @@ It's time to see if you've got what it takes to foot it with your favourite movi
 Horoeka 2017
 ------------
 
-### []()
+### [Feedr](https://github.com/james-inglis-01/feedr)
 
-<!-- description -->
+A web app built to help charities connect with businesses to provide food for those who need it, and reduce food waste.
 
-<!-- ![](images/2017/) -->
+![](images/2017/feedr)
 
-* [GitHub Repository](https://github.com/horoeka-2017/)
+* [GitHub Repository](https://github.com/james-inglis-01/feedr)
 
 
 Kea 2017
@@ -47,37 +47,55 @@ The uber app for dog walkers.
 Pohutukawa 2017
 ---------------
 
-### []()
+### [Te Whare Piringa Booking](https://thebookingmanager.herokuapp.com/)
 
-<!-- description -->
+Booking app for Te Whare Piringa Community Centre.
+
+![](images/2017/te-whare-piringa-booking)
+
+* [GitHub Repository](https://github.com/Jae-Huh/te-whare-piringa-booking)
+
+### [SkillHub]()
+
+SkillHub is a community for people to share, discover and develop skills together. 
 
 <!-- ![](images/2017/) -->
 
-* [GitHub Repository](https://github.com/pohutukawa-2017/)
+* [GitHub Repository](https://github.com/Sam-Houlahan/skillhub)
 
 
 Hihi 2017
 ---------
 
-### []()
+### [GitMaster]()
 
-<!-- description -->
+"It is the year 3000. Organic lifeforms battle for freedom against their robot overlords. The Version Control wars have been raging since before you were born. You are the last in the line of Gitmasters, and have been captured after your defeat in the most recent Merge Conflict. You awaken in a cell…"
+
+Gitmaster is an interactive point and click adventure game that demonstrates the havoc that can be caused by pushing straight to master. The player must navigate through a series of different locations, collecting items and using them to solve small puzzles to win. The aim of the game is to blow up the React Core and exit the base in the Escape Pod.
 
 <!-- ![](images/2017/) -->
 
-* [GitHub Repository](https://github.com/hihi-2017/)
+* [GitHub Repository](https://github.com/pushmeproductions/gitmaster)
+
+### [Upstage](http://up-stage.herokuapp.com/#/)
+
+An awesome app that generates a Spotify playlist based on gigs you wanna checkout.
+
+<!-- ![](images/2017/) -->
+
+* [GitHub Repository](https://github.com/Giggify/Upstage)
 
 
 Matai 2017
 ----------
 
-### []()
+### [Bill's World](http://bills-world.herokuapp.com/)
 
-<!-- description -->
+This website enables users to vote and comment on government bills and legislation.
 
-<!-- ![](images/2017/) -->
+![](images/2017/bills-world)
 
-* [GitHub Repository](https://github.com/matai-2018/)
+* [GitHub Repository](https://github.com/matai-2016/Bills-World)
 
 
 Kakapo 2017
