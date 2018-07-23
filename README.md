@@ -1,6 +1,6 @@
 # Final Projects
 
-Here are links to all final projects of past cohorts of Enspiral Dev Academy. 
+Here are links to all final projects of past cohorts of Enspiral Dev Academy Auckland and Wellington Bootcamps. 
 
 
 ## Cohort Years
