@@ -7,12 +7,12 @@ Kowhai 2016
 
 A flat management app.
 
-<!-- ![](images/2016/) -->
+_image coming soon..._ <!-- ![](images/2016/) -->
 
 * [GitHub Repository](https://github.com/kowhai-2016/flatme)
 
 
-Weka 2016
+<!-- Weka 2016
 ---------
 
 ### []()
@@ -21,7 +21,7 @@ Weka 2016
 
 <!-- ![](images/2016/) -->
 
-* [GitHub Repository](https://github.com/weka-2016/)
+<!-- * [GitHub Repository](https://github.com/weka-2016/) -->
 
 
 Piwakawaka 2016
@@ -35,28 +35,28 @@ Sharing useless talents with the world.
 
 * GitHub Repositories: [Backend](https://github.com/TopOfTheFlops/server-side) and [Frontend](https://github.com/TopOfTheFlops/client-side)
 
-Kokako 2016
+<!-- Kokako 2016
 -----------
 
-### []()
+### []() -->
 
 <!-- description -->
 
 <!-- ![](images/2016/) -->
 
-* [GitHub Repository](https://github.com/Kokako-2016/)
+<!-- * [GitHub Repository](https://github.com/Kokako-2016/) -->
 
 
-Kereru 2016
+<!-- Kereru 2016
 -----------
 
-### []()
+### []() -->
 
 <!-- description -->
 
 <!-- ![](images/2016/) -->
 
-* [GitHub Repository](https://github.com/kereru-2016/)
+<!-- * [GitHub Repository](https://github.com/kereru-2016/) -->
 
 
 Kahikatea 2016
@@ -149,14 +149,14 @@ Ride sharing app.
 * [GitHub Repository](https://github.com/Tandem-NZ/tandem)
 
 
-Hihi 2016
+ Hihi 2016
 ---------
 
 ### [onFleek](https://github.com/andrew-travis-wadman/TBD)
 
 Social fashion hot or not.
 
-<!-- ![](images/2016/.png) -->
+_image coming soon..._ <!-- ![](images/2016/.png) -->
 
 * [GitHub Repository](https://github.com/andrew-travis-wadman/TBD)
 
@@ -165,16 +165,16 @@ Social fashion hot or not.
 
 Organise potlucks better.
 
-<!-- ![](images/2016/.png) -->
+_image coming soon..._ <!-- ![](images/2016/.png) -->
 
 * [GitHub Repository](https://github.com/James-Sangalli/DishOut)
 
 
-### [Stow](https://github.com/rawad-alawar/stow) 
+### [Stow](http://stow-hihi.herokuapp.com/#/) 
 
 Airbnb for storage space.
 
-<!-- ![](images/2016/.png) -->
+![](images/2016/stow.png)
 
 * [GitHub Repository](https://github.com/rawad-alawar/stow)
  
@@ -191,11 +191,11 @@ Assists autistic spectrum students to communicate visually.
 * [GitHub Repository](https://github.com/melissa-c/Comms)
 
 
-### [Trails](https://github.com/danieldelacruz01/trails)
+### [Trails](https://trails-app.herokuapp.com/)
 
 Explore your city, time trial.
 
-<!-- ![](images/2016/.png) -->
+![](images/2016/trails.png)
 
 * [GitHub Repository](https://github.com/danieldelacruz01/trails)
 
