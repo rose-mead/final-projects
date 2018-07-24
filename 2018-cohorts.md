@@ -48,7 +48,6 @@ Pro-bono was created for the Auckland Community Law Centre to create better conn
 A white label app for tracking customer loyalty to your business. Built in the case of Auckland Zoo and their Members of the Zoo loyalty club.
 
 ![](images/2018/loyalty-web.png)
-![](images/2018/loyalty-app.png)
 
 * GitHub Repository: [Web](https://github.com/Kauri-2018/loyalty-web) and [Mobile](https://github.com/Kauri-2018/loyalty-app)
 
