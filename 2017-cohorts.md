@@ -55,11 +55,11 @@ Booking app for Te Whare Piringa Community Centre.
 
 * [GitHub Repository](https://github.com/Jae-Huh/te-whare-piringa-booking)
 
-### [SkillHub]()
+### [SkillHub](https://github.com/Sam-Houlahan/skillhub)
 
 SkillHub is a community for people to share, discover and develop skills together. 
 
-<!-- ![](images/2017/) -->
+![](images/2017/skillhub)
 
 * [GitHub Repository](https://github.com/Sam-Houlahan/skillhub)
 
@@ -67,13 +67,13 @@ SkillHub is a community for people to share, discover and develop skills togethe
 Hihi 2017
 ---------
 
-### [GitMaster]()
+### [GitMaster](https://github.com/pushmeproductions/gitmaster)
 
 "It is the year 3000. Organic lifeforms battle for freedom against their robot overlords. The Version Control wars have been raging since before you were born. You are the last in the line of Gitmasters, and have been captured after your defeat in the most recent Merge Conflict. You awaken in a cell…"
 
 Gitmaster is an interactive point and click adventure game that demonstrates the havoc that can be caused by pushing straight to master. The player must navigate through a series of different locations, collecting items and using them to solve small puzzles to win. The aim of the game is to blow up the React Core and exit the base in the Escape Pod.
 
-<!-- ![](images/2017/) -->
+![](images/2017/gitmaster.png)
 
 * [GitHub Repository](https://github.com/pushmeproductions/gitmaster)
 
@@ -85,6 +85,21 @@ An awesome app that generates a Spotify playlist based on gigs you wanna checkou
 
 * [GitHub Repository](https://github.com/Giggify/Upstage)
 
+### [Gurgl](https://github.com/EDA-Gurgl/gurgl)
+
+Repurposing clothing for ever-growing kids.
+
+![](images/2017/gurgl.png)
+
+* [GitHub Repository](https://github.com/EDA-Gurgl/gurgl)
+
+### [RecycleHack](http://recyclehack.herokuapp.com/#/)
+
+Making recycling easier for Wellingtonians.
+
+![](images/2017/recyclehack.png)
+
+* [GitHub Repository](https://github.com/sarah-due/TeamHoppers)
 
 Matai 2017
 ----------
@@ -98,13 +113,13 @@ This website enables users to vote and comment on government bills and legislati
 * [GitHub Repository](https://github.com/matai-2016/Bills-World)
 
 
-Kakapo 2017
+<!-- Kakapo 2017
 -----------
 
-### []()
+### []() -->
 
 <!-- description -->
 
 <!-- ![](images/2017/) -->
 
-* [GitHub Repository](https://github.com/kakapo-2017/)
+<!-- * [GitHub Repository](https://github.com/kakapo-2017/) -->
