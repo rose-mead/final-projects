@@ -66,7 +66,7 @@ Mental health resources for those affected and their communities.
 
 <!-- ### [Shop Bro]()
 
-<!-- Mental health resources for those affected and their communities. -->
+<!-- description. -->
 
 <!-- ![](images/2018/shop-bro.png) -->
 
@@ -76,7 +76,7 @@ Mental health resources for those affected and their communities.
 Harakeke 2018
 -------------
 
-### [Marāma](http://)
+### [Marāma](http://http://www.marama.org.nz/)
 
 Mārama is a centralised platform for study and funding opportunities available in Aotearoa.
 
@@ -84,29 +84,29 @@ Mārama is a centralised platform for study and funding opportunities available 
 
 * [GitHub Repository](https://github.com/Marama-App/marama.png)
 
-### [DeltΔge](http://)
+### [DeltΔge](http://http://deltage.herokuapp.com/LiveApp)
 
 A cryptocurrency tool to help find and act on arbitrage opportunities.
 
-<!-- ![](images/2018/) -->
+![](images/2018/deltage.png)
 
 * [GitHub Repository](https://github.com/TylerGriffin99/Deltage/tree/deployment)
 
-### [DRM](http://)
+### [DRM](https://github.com/harakeke-2018/drm)
 
 Managing essential resources such as food, water, shelter in different disaster centers.
 
-<!-- ![](images/2018/) -->
+![](images/2018/drm.png)
 
 * [GitHub Repository](https://github.com/harakeke-2018/drm)
 
-Kahu 2018
+<!-- Kahu 2018
 ---------
 
 ### []()
 
-<!-- description -->
+description
 
-<!-- ![](images/2018) -->
+![](images/2018)
 
-* [GitHub Repository](https://github.com/kahu-2018/)
+* [GitHub Repository](https://github.com/kahu-2018/) -->
