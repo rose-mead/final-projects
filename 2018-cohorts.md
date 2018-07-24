@@ -23,13 +23,13 @@ Mamaku 2018
 Ruru 2018
 ---------
 
-### []()
+### [Persistance]()
 
 <!-- description -->
 
 <!-- ![](images/2018/) -->
 
-* [GitHub Repository](https://github.com/ruru-2018/)
+* [GitHub Repository](https://github.com/ruru-bootcamp-2018/Persistance)
 
 
 Kauri 2018
@@ -64,15 +64,13 @@ Mental health resources for those affected and their communities.
 
 * [GitHub Repository](https://github.com/Kokako-2018/Embracing-Blue)
 
-
-
-### [Shop Bro]()
+<!-- ### [Shop Bro]()
 
 <!-- Mental health resources for those affected and their communities. -->
 
-![](images/2018/shop-bro.png)
+<!-- ![](images/2018/shop-bro.png) -->
 
-* [GitHub Repository](https://github.com/Kokako-2018/shop-bro)
+<!-- * [GitHub Repository](https://github.com/Kokako-2018/shop-bro) --> 
 
 
 Harakeke 2018
