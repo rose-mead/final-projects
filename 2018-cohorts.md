@@ -50,7 +50,7 @@ A white label app for tracking customer loyalty to your business. Built in the c
 ![](images/2018/loyalty-web.png)
 ![](images/2018/loyalty-app.png)
 
-* GitHub Repository: [Web](https://github.com/Kauri-2018/loyalty-web) and [mobile](https://github.com/Kauri-2018/loyalty-app)
+* GitHub Repository: [Web](https://github.com/Kauri-2018/loyalty-web) and [Mobile](https://github.com/Kauri-2018/loyalty-app)
 
 
 Kokako 2018
