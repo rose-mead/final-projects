@@ -47,17 +47,24 @@ Sharing useless talents with the world.
 <!-- * [GitHub Repository](https://github.com/Kokako-2016/) -->
 
 
-<!-- Kereru 2016
+Kereru 2016
 -----------
 
-### []() -->
+### [Food Bytes](https://audioeats.herokuapp.com/) 
 
-<!-- description -->
+An interactive audio recipe book.
 
-<!-- ![](images/2016/) -->
+![](images/2016/food-bytes.png)
 
-<!-- * [GitHub Repository](https://github.com/kereru-2016/) -->
+* [GitHub Repository](https://github.com/foodbytes/foodBytes)
 
+### [Dev Quest](https://github.com/quest-friends/dev-quest) 
+
+Game for beginner developers to learn JavaScript, Ruby and Python. 
+
+![](images/2016/dev-quest.png)
+
+* [GitHub Repository](https://github.com/quest-friends/dev-quest)
 
 Kahikatea 2016
 --------------
