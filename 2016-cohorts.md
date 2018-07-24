@@ -7,7 +7,7 @@ Kowhai 2016
 
 A flat management app.
 
-_image coming soon..._ <!-- ![](images/2016/) -->
+![](images/2016/flatme.png)
 
 * [GitHub Repository](https://github.com/kowhai-2016/flatme)
 
@@ -34,6 +34,16 @@ Sharing useless talents with the world.
 ![](images/2016/top-of-the-flops.png)
 
 * GitHub Repositories: [Backend](https://github.com/TopOfTheFlops/server-side) and [Frontend](https://github.com/TopOfTheFlops/client-side)
+
+
+### [Beer Compass](https://beercompassinc.github.io/beercompassreact/)
+
+Track your alcoholic adventure.
+
+![](images/2016/beer-compass.png)
+
+* [GitHub Repository](https://github.com/BeerCompassInc/beercompassreact)
+
 
 <!-- Kokako 2016
 -----------
