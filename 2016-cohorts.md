@@ -45,16 +45,16 @@ Track your alcoholic adventure.
 * [GitHub Repository](https://github.com/BeerCompassInc/beercompassreact)
 
 
-<!-- Kokako 2016
+Kokako 2016
 -----------
 
-### []() -->
+### [Coffee App](https://github.com/CoffeeApp) -->
 
-<!-- description -->
+A coffee ordering app.
 
 <!-- ![](images/2016/) -->
 
-<!-- * [GitHub Repository](https://github.com/Kokako-2016/) -->
+[GitHub Repository](https://github.com/CoffeeApp)
 
 
 Kereru 2016

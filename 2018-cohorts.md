@@ -63,13 +63,21 @@ Mental health resources for those affected and their communities.
 
 * [GitHub Repository](https://github.com/Kokako-2018/Embracing-Blue)
 
-<!-- ### [Shop Bro]()
+### [AR Atua](http://atua-web.herokuapp.com/)
 
-<!-- description. -->
+AR Atua is an augmented reality app which places the god Tāwhirimātea on top of Mount Victoria. The web portion tells the legend of Tāwhirimātea, the background of our team, and helps transmit the spirit of the project by having a fully bilingual site where the english translations reveal themselves through active participation of the viewer. It is also built ontop of a database designed for translators.
 
-<!-- ![](images/2018/shop-bro.png) -->
+![](images/2018/ar-atua.png)
 
-<!-- * [GitHub Repository](https://github.com/Kokako-2018/shop-bro) --> 
+[GitHub Repository](https://github.com/l-suzuki/atua-web)
+
+### [Shop Bro](http://shopbro.herokuapp.com/#/)
+
+Making sure you stick to your budget and smash your savings goals!
+
+![](images/2018/shop-bro.png)
+
+[GitHub Repository](https://github.com/Kokako-2018/ShopBro-2.0-mobile) 
 
 
 Harakeke 2018
