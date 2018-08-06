@@ -3,19 +3,19 @@
 Mamaku 2018
 -----------
 
-### [Meals 4 Mates]()
+### [Meals 4 Mates](http://meals4mates.herokuapp.com/#/)
 
-<!-- description -->
+M4M is a non-profit organisation aimed at making it easier for people to help the the homeless in New Zealand.
 
-<!-- ![](images/2018/) -->
+![](images/2018/meals-4-mates.png)
 
 * [GitHub Repository](https://github.com/mamaku-2018/Meals4Mates)
 
-### [Emotional Map]()
+### [Streetfeel](http://streetfeel.herokuapp.com/#/)
 
-<!-- description -->
+Streelfeel is a digital space to help make sense of our collective emotions and experiences, reflecting particular ways of behaving, thinking and being.
 
-<!-- ![](images/2018/) -->
+![](images/2018/streetfeel.png)
 
 * [GitHub Repository](https://github.com/mamaku-2018/Emotional_Map)
 
