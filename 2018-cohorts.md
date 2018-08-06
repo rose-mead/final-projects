@@ -23,11 +23,11 @@ Streelfeel is a digital space to help make sense of our collective emotions and 
 Ruru 2018
 ---------
 
-### [Persistance]()
+### [The Persistance](http://the-persistence.herokuapp.com/)
 
-<!-- description -->
+The Resistance is a game where players attempt to deduce one another's identities. The setting of the game is an imagined battle between a resistance group trying to overthrow the malignant government and the government spies infiltrating the resistance group.
 
-<!-- ![](images/2018/) -->
+![](images/2018/the-persistance)
 
 * [GitHub Repository](https://github.com/ruru-bootcamp-2018/Persistance)
 
