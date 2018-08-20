@@ -107,13 +107,13 @@ Managing essential resources such as food, water, shelter in different disaster 
 
 * [GitHub Repository](https://github.com/harakeke-2018/drm)
 
-<!-- Kahu 2018
+Kahu 2018
 ---------
 
-### []()
+### [Pantry to Plate](http://pantry-to-plate.herokuapp.com/)
 
-description
+Have no energy to be creative enough to think of what to cook? Pantry to Plate is an app that could give you ideas and plan out meals around some of the food that needs to be eaten!
 
-![](images/2018)
+![](images/2018/pantry-to-plate.png)
 
-* [GitHub Repository](https://github.com/kahu-2018/) -->
+* [GitHub Repository](https://github.com/kahu-2018/anything-but-a-pantry-manager)
