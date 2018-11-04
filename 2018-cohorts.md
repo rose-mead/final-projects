@@ -1,5 +1,38 @@
 # Cohorts of 2018
 
+Nikau 2018
+---------
+
+### [Buy My Kai](https://github.com/nikau-2018/Buy-My-Kai)
+
+Buy My Kai is a web app that connects people through the food we grow in our backyard. If you have a green thumb and would like to share your produce with the community you can sign up as a Grower and list what produce you would like to sell or trade.
+If you're a foodie and on the hunt for local and fresh produce you can signup as an Eater and search for Growers in your neighbourhood.
+
+![](images/2018/ALOT.png)
+
+* [GitHub Repository](https://github.com/nikau-2018/Buy-My-Kai)
+
+### [ALOT](https://alot.space/)
+
+A community hub that provides access to tools, reduces unnecessary consumption and empowers people to build, share & create in a sustainable way.
+
+![](images/2018/ALOT.png)
+
+* [GitHub Repository](https://github.com/nikau-2018/alot)
+
+
+COHORT 2018
+---------
+
+### [NAME](LINK)
+
+DESC.
+
+![](images/2018/IMG)
+
+* [GitHub Repository](https://github.com/LINK)
+
+
 Mamaku 2018
 -----------
 
@@ -43,7 +76,7 @@ Pro-bono was created for the Auckland Community Law Centre to create better conn
 
 * [GitHub Repository](https://github.com/Kauri-2018/pro-bono)
 
-### [Loyalty]()
+### [Loyalty](https://github.com/Kauri-2018/loyalty-web)
 
 A white label app for tracking customer loyalty to your business. Built in the case of Auckland Zoo and their Members of the Zoo loyalty club.
 
@@ -83,13 +116,13 @@ Making sure you stick to your budget and smash your savings goals!
 Harakeke 2018
 -------------
 
-### [Marāma](http://http://www.marama.org.nz/)
+### [Marāma](http://www.marama.org.nz/)
 
 Mārama is a centralised platform for study and funding opportunities available in Aotearoa.
 
 ![](images/2018/marama.png)
 
-* [GitHub Repository](https://github.com/Marama-App/marama.png)
+* [GitHub Repository](https://github.com/harakeke-2018/marama)
 
 ### [DeltΔge](http://http://deltage.herokuapp.com/LiveApp)
 
