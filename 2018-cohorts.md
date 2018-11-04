@@ -8,7 +8,7 @@ Nikau 2018
 Buy My Kai is a web app that connects people through the food we grow in our backyard. If you have a green thumb and would like to share your produce with the community you can sign up as a Grower and list what produce you would like to sell or trade.
 If you're a foodie and on the hunt for local and fresh produce you can signup as an Eater and search for Growers in your neighbourhood.
 
-![](images/2018/ALOT.png)
+![](images/2018/buy-my-kai.png)
 
 * [GitHub Repository](https://github.com/nikau-2018/Buy-My-Kai)
 
