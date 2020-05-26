@@ -1,5 +1,14 @@
 # Cohorts of 2020
 
+| | Auckland | Wellington |
+|---|---|---|
+| 1 | [Harakeke](#harakeke-2020) | [Kahu](#kahu-2019)
+| 2 | [Kahikatea](#kahikatea-2020) | [Piwakawaka](#piwakawaka-2020)
+<!-- | 3 | [Matai](#matai-2020) | [Kotare](#kotare-2020)
+| 4 | [Pohutukawa](#pohutukawa-2020) | [Roa](#roa-2020)
+| 5 | [Horoeka](#horoeka-2020) | [Hihi](#hihi-2020) -->
+
+
 Harakeke 2020
 -----------
 
