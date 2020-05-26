@@ -1,5 +1,19 @@
 # Cohorts of 2016
 
+| | Auckland | Wellington |
+|---|---|---|
+| 1 | [Kowhai](#kowhai-2016) | [Weka](#weka-2016)
+| 2 | [Kahikatea](#kahikatea-2016) | [Piwakawaka](#piwakawaka-2016)
+| 3 | [Nikau](#nikau-2016) | [Kokako](#kokako-2016)
+| 4 | [Kauri](#kauri-2016) | [Kereru](#kereru-2016)
+| 5 |  | [Kea](#kea-2016)
+| 6 |  | [Roa](#roa-2016)
+| 7 |  | [Kotare](#kotare-2016)
+| 8 |  | [Hihi](#hihi-2016)
+| 9 |  | [Karearea](#hihi-2016)
+| 10 |  | [Kakapo](#kakapo-2016)
+
+
 Kowhai 2016
 -----------
 

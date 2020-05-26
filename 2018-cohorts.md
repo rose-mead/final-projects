@@ -1,5 +1,13 @@
 # Cohorts of 2018
 
+| | Auckland | Wellington |
+|---|---|---|
+| 1 | [Nikau](#nikau-2018) | [Kahu](#kahu-2018)
+| 2 | [Mamaku](#mamaku-2018) | [Ruru](#ruru-2018)
+| 3 | [Kauri](#kauri-2018) | [Kokako](#kokako-2018)
+| 4 | [Harakeke](#harakeke-2018) | [Kahu](#kahu-2018)
+
+
 Nikau 2018
 ---------
 
@@ -19,18 +27,6 @@ A community hub that provides access to tools, reduces unnecessary consumption a
 ![](images/2018/ALOT.png)
 
 * [GitHub Repository](https://github.com/nikau-2018/alot)
-
-
-COHORT 2018
----------
-
-### [NAME](LINK)
-
-DESC.
-
-![](images/2018/IMG)
-
-* [GitHub Repository](https://github.com/LINK)
 
 
 Mamaku 2018

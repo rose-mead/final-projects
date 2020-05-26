@@ -1,5 +1,13 @@
 # Cohorts of 2017
 
+| | Auckland | Wellington |
+|---|---|---|
+| 1 | [Horoeka](#horoeka-2017) | [Miromiro](#miromiro-2017)
+| 2 | [Pohutukawa](#pohutukawa-2017) | [Kea](#kea-2017)
+| 3 | [Matai](#matai-2017) | [Hihi](#hihi-2017)
+| 4 | | [Kakapo](#kakapo-2017)
+
+
 Miromiro 2017
 -------------
 
