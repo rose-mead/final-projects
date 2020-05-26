@@ -25,7 +25,7 @@ Group members:
 * Brendan Olphert
 * Hywel Thomas
 
-* [GitHub Repository](https://github.com/harakeke-2020/Final-Project-Be-Seasonable)
+[GitHub Repository](https://github.com/harakeke-2020/Final-Project-Be-Seasonable)
 
 ![](images/2020/be-seasonable.png)
 
@@ -52,7 +52,7 @@ Group members:
 * Mathias Bast
 * John Sengson
 
-* [GitHub Repository](https://github.com/kahikatea-2020/take-me)
+[GitHub Repository](https://github.com/kahikatea-2020/take-me)
 
 ![](images/2020/take-me.png)
 
@@ -71,7 +71,7 @@ Group members:
 * Tom Clayton
 * Alicia Lu
 
-* [GitHub Repository](https://github.com/kahikatea-2020/The-Name-Of-The-Game)
+[GitHub Repository](https://github.com/kahikatea-2020/The-Name-Of-The-Game)
 
 ![](images/2020/trial-by-seven.png)
 
@@ -88,7 +88,7 @@ Group members:
 * David Dumolo
 * Chris Alba
 
-* [GitHub Repository](https://github.com/malyz01/pennyWise)
+[GitHub Repository](https://github.com/malyz01/pennyWise)
 
 ![](images/2020/pennywise.png)
 

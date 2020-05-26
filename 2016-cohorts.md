@@ -23,7 +23,7 @@ A flat management app.
 
 ![](images/2016/flatme.png)
 
-* [GitHub Repository](https://github.com/kowhai-2016/flatme)
+[GitHub Repository](https://github.com/kowhai-2016/flatme)
 
 
 <!-- Weka 2016
@@ -35,7 +35,7 @@ A flat management app.
 
 <!-- ![](images/2016/) -->
 
-<!-- * [GitHub Repository](https://github.com/weka-2016/) -->
+<!-- [GitHub Repository](https://github.com/weka-2016/) -->
 
 
 Piwakawaka 2016
@@ -56,7 +56,7 @@ Track your alcoholic adventure.
 
 ![](images/2016/beer-compass.png)
 
-* [GitHub Repository](https://github.com/BeerCompassInc/beercompassreact)
+[GitHub Repository](https://github.com/BeerCompassInc/beercompassreact)
 
 
 Kokako 2016
@@ -80,7 +80,7 @@ An interactive audio recipe book.
 
 ![](images/2016/food-bytes.png)
 
-* [GitHub Repository](https://github.com/foodbytes/foodBytes)
+[GitHub Repository](https://github.com/foodbytes/foodBytes)
 
 ### [Dev Quest](https://github.com/quest-friends/dev-quest) 
 
@@ -88,7 +88,7 @@ Game for beginner developers to learn JavaScript, Ruby and Python.
 
 ![](images/2016/dev-quest.png)
 
-* [GitHub Repository](https://github.com/quest-friends/dev-quest)
+[GitHub Repository](https://github.com/quest-friends/dev-quest)
 
 Kahikatea 2016
 --------------
@@ -99,7 +99,7 @@ Coordinating the delivery of surplus food to organisations that need it.
 
 ![](images/2016/harvestr.png)
 
-* [GitHub Repository](https://github.com/kahikatea-2016/harvestr)
+[GitHub Repository](https://github.com/kahikatea-2016/harvestr)
 
 
 Nikau 2016
@@ -123,7 +123,7 @@ Connecting volunteers with local events.
 
 ![](images/2016/marak.png)
 
-* [GitHub Repository](https://github.com/kauri-2016/marak)
+[GitHub Repository](https://github.com/kauri-2016/marak)
 
 
 Kea 2016
@@ -135,7 +135,7 @@ Game where you queue up commands for a robot to execute later. Save the world!
 
 ![](images/2016/beepboopbot.png)
 
-* [GitHub Repository](https://github.com/BeepBoopBot/BeepBoopBot)
+[GitHub Repository](https://github.com/BeepBoopBot/BeepBoopBot)
 
 
 ### [Piro](https://piro-score.herokuapp.com/)
@@ -144,7 +144,7 @@ Publish and view live scores at sports events in real time.
 
 ![](images/2016/piro.png)
 
-* [GitHub Repository](https://github.com/piro-inc/piro)
+[GitHub Repository](https://github.com/piro-inc/piro)
 
 
 Roa 2016
@@ -156,7 +156,7 @@ Fast. Seamless. Connected. The New Standard for Volunteer Organisation.
 
 ![](images/2016/pitch-in.png)
 
-* [GitHub Repository](https://github.com/AuxiliumRoa)
+[GitHub Repository](https://github.com/AuxiliumRoa)
 
 
 ### [Eatr](https://eatr.herokuapp.com)
@@ -165,7 +165,7 @@ Tinder for eateries.
 
 ![](images/2016/eatr.png)
 
-* [GitHub Repository](https://github.com/Eatr/eatr)
+[GitHub Repository](https://github.com/Eatr/eatr)
 
 
 Kotare 2016
@@ -177,7 +177,7 @@ Ride sharing app.
 
 ![](images/2016/tandem.png)
 
-* [GitHub Repository](https://github.com/Tandem-NZ/tandem)
+[GitHub Repository](https://github.com/Tandem-NZ/tandem)
 
 
  Hihi 2016
@@ -189,7 +189,7 @@ Social fashion hot or not.
 
 _image coming soon..._ <!-- ![](images/2016/.png) -->
 
-* [GitHub Repository](https://github.com/andrew-travis-wadman/TBD)
+[GitHub Repository](https://github.com/andrew-travis-wadman/TBD)
 
 
 ### [Dish Out](https://github.com/James-Sangalli/DishOut)
@@ -198,7 +198,7 @@ Organise potlucks better.
 
 _image coming soon..._ <!-- ![](images/2016/.png) -->
 
-* [GitHub Repository](https://github.com/James-Sangalli/DishOut)
+[GitHub Repository](https://github.com/James-Sangalli/DishOut)
 
 
 ### [Stow](http://stow-hihi.herokuapp.com/#/) 
@@ -207,7 +207,7 @@ Airbnb for storage space.
 
 ![](images/2016/stow.png)
 
-* [GitHub Repository](https://github.com/rawad-alawar/stow)
+[GitHub Repository](https://github.com/rawad-alawar/stow)
  
 
 Karearea 2016
@@ -219,7 +219,7 @@ Assists autistic spectrum students to communicate visually.
 
 ![](images/2016/comms-companion.png)
 
-* [GitHub Repository](https://github.com/melissa-c/Comms)
+[GitHub Repository](https://github.com/melissa-c/Comms)
 
 
 ### [Trails](https://trails-app.herokuapp.com/)
@@ -228,7 +228,7 @@ Explore your city, time trial.
 
 ![](images/2016/trails.png)
 
-* [GitHub Repository](https://github.com/danieldelacruz01/trails)
+[GitHub Repository](https://github.com/danieldelacruz01/trails)
 
 
 Kakapo 2016
@@ -238,13 +238,13 @@ Kakapo 2016
 
 ![](images/2016/tightrope.png)
 
-* [GitHub Repository](https://github.com/kakapo2016-projects/tightrope)
-* [Final Presentation](https://www.youtube.com/watch?v=E8keq_d2u6U&feature=youtu.be)
+[GitHub Repository](https://github.com/kakapo2016-projects/tightrope)
+[Final Presentation](https://www.youtube.com/watch?v=E8keq_d2u6U&feature=youtu.be)
 
 
 ### [Tooth & Pail](http://toothandpail.herokuapp.com/)
 
 ![](images/2016/tooth-and-pail.png)
 
-* [GitHub Repository](https://github.com/kakapo2016-projects/tooth-and-pail)
-* [Final Presentation](https://www.youtube.com/watch?v=6amWNhbr9Hk&feature=youtu.be)
+[GitHub Repository](https://github.com/kakapo2016-projects/tooth-and-pail)
+[Final Presentation](https://www.youtube.com/watch?v=6amWNhbr9Hk&feature=youtu.be)

@@ -18,7 +18,7 @@ Harakeke 2019
 
 ![](images/2019/tracker-grad.png)
 
-* [GitHub Repository](https://github.com/harakeke-2019/track-a-grad)
+[GitHub Repository](https://github.com/harakeke-2019/track-a-grad)
 
 
 ### [FoodMood](https://github.com/harakeke-2019/food-mood)
@@ -28,7 +28,7 @@ FoodMood allows a user to record and monitor the impact certain foods has on not
 <!-- Group members:
 *  -->
 
-* [GitHub Repository](https://github.com/harakeke-2019/food-mood)
+[GitHub Repository](https://github.com/harakeke-2019/food-mood)
 
 ![](images/2019/food-mood.png)
 
@@ -41,7 +41,7 @@ Navigate learning vagahau Niue with your very own feke friend.
 <!-- Group members:
 *  -->
 
-* [GitHub Repository](https://github.com/harakeke-2019/feke)
+[GitHub Repository](https://github.com/harakeke-2019/feke)
 
 ![](images/2019/feke.png)
 
@@ -60,7 +60,7 @@ Helping children learn about the importance of good decision making.
 <!-- Group members:
 *  -->
 
-* [GitHub Repository](https://github.com/kahikatea-2019/kidskash)
+[GitHub Repository](https://github.com/kahikatea-2019/kidskash)
 
 ![](images/2016/kidskash.png)
 
@@ -72,7 +72,7 @@ A typical spaced repetition system.
 <!-- Group members:
 *  -->
 
-* [GitHub Repository](https://github.com/kahikatea-2019/SPACEY-2.0)
+[GitHub Repository](https://github.com/kahikatea-2019/SPACEY-2.0)
 
 ![](images/2016/spacey.png)
 
@@ -137,6 +137,6 @@ Group members:
 * Tosca Wilson
 * Robert Cummins
 
-* [GitHub Repository](https://github.com/hihi-2019/splinter)
+[GitHub Repository](https://github.com/hihi-2019/splinter)
 
 ![](images/2019/splinter.png)

@@ -19,7 +19,7 @@ If you're a foodie and on the hunt for local and fresh produce you can signup as
 <!-- Group members:
 *  -->
 
-* [GitHub Repository](https://github.com/nikau-2018/Buy-My-Kai)
+[GitHub Repository](https://github.com/nikau-2018/Buy-My-Kai)
 
 ![](images/2018/buy-my-kai.png)
 
@@ -31,7 +31,7 @@ A community hub that provides access to tools, reduces unnecessary consumption a
 <!-- Group members:
 *  -->
 
-* [GitHub Repository](https://github.com/nikau-2018/alot)
+[GitHub Repository](https://github.com/nikau-2018/alot)
 
 ![](images/2018/ALOT.png)
 
@@ -46,7 +46,7 @@ M4M is a non-profit organisation aimed at making it easier for people to help th
 <!-- Group members:
 *  -->
 
-* [GitHub Repository](https://github.com/mamaku-2018/Meals4Mates)
+[GitHub Repository](https://github.com/mamaku-2018/Meals4Mates)
 
 ![](images/2018/meals-4-mates.png)
 
@@ -60,7 +60,7 @@ Streelfeel is a digital space to help make sense of our collective emotions and 
 
 ![](images/2018/streetfeel.png)
 
-* [GitHub Repository](https://github.com/mamaku-2018/Emotional_Map)
+[GitHub Repository](https://github.com/mamaku-2018/Emotional_Map)
 
 
 Ruru 2018
@@ -73,7 +73,7 @@ The Resistance is a game where players attempt to deduce one another's identitie
 <!-- Group members:
 *  -->
 
-* [GitHub Repository](https://github.com/ruru-bootcamp-2018/Persistance)
+[GitHub Repository](https://github.com/ruru-bootcamp-2018/Persistance)
 
 ![](images/2018/the-persistance)
 
@@ -91,7 +91,7 @@ Pro-bono was created for the Auckland Community Law Centre to create better conn
 
 ![](images/2018/pro-bono.png)
 
-* [GitHub Repository](https://github.com/Kauri-2018/pro-bono)
+[GitHub Repository](https://github.com/Kauri-2018/pro-bono)
 
 ### [Loyalty](https://github.com/Kauri-2018/loyalty-web)
 
@@ -117,7 +117,7 @@ Mental health resources for those affected and their communities.
 
 ![](images/2018/embracing-blue.png)
 
-* [GitHub Repository](https://github.com/Kokako-2018/Embracing-Blue)
+[GitHub Repository](https://github.com/Kokako-2018/Embracing-Blue)
 
 ### [AR Atua](http://atua-web.herokuapp.com/)
 
@@ -157,7 +157,7 @@ Group members:
 * Catherine Fromont
 * Elyse Wyatt
 
-* [GitHub Repository](https://github.com/harakeke-2018/marama)
+[GitHub Repository](https://github.com/harakeke-2018/marama)
 
 ![](images/2018/marama.png)
 
@@ -169,7 +169,7 @@ A cryptocurrency tool to help find and act on arbitrage opportunities.
 <!-- Group members:
 *  -->
 
-* [GitHub Repository](https://github.com/TylerGriffin99/Deltage/tree/deployment)
+[GitHub Repository](https://github.com/TylerGriffin99/Deltage/tree/deployment)
 
 ![](images/2018/deltage.png)
 
@@ -181,7 +181,7 @@ Managing essential resources such as food, water, shelter in different disaster 
 <!-- Group members:
 *  -->
 
-* [GitHub Repository](https://github.com/harakeke-2018/drm)
+[GitHub Repository](https://github.com/harakeke-2018/drm)
 
 ![](images/2018/drm.png)
 
@@ -197,6 +197,6 @@ Have no energy to be creative enough to think of what to cook? Pantry to Plate i
 <!-- Group members:
 *  -->
 
-* [GitHub Repository](https://github.com/kahu-2018/anything-but-a-pantry-manager)
+[GitHub Repository](https://github.com/kahu-2018/anything-but-a-pantry-manager)
 
 ![](images/2018/pantry-to-plate.png)
