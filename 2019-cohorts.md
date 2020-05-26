@@ -3,11 +3,11 @@
 Harakeke 2019
 -----------
 
-### [Track a Grad](https://github.com/harakeke-2019/track-a-grad)
+### [Tracker Grad](https://github.com/harakeke-2019/track-a-grad)
 
-A flat management app.
+ A web portal for Enspiral Dev Academy alumni to build CV profiles to advertise their job availability and enables employers to recruit from EDA, and allows EDA to facilitate the relationship.
 
-![](images/2019/track-a-grad.png)
+![](images/2019/tracker-grad.png)
 
 * [GitHub Repository](https://github.com/harakeke-2019/track-a-grad)
 
@@ -16,7 +16,7 @@ A flat management app.
 
 FoodMood allows a user to record and monitor the impact certain foods has on not only their physical, but also their emotional state. It is a tool designed to assist any user to navigate their emotional relationship with food.
 
-![](images/2019/foodmood.png)
+![](images/2019/food-mood.png)
 
 * [GitHub Repository](https://github.com/harakeke-2019/food-mood)
 
