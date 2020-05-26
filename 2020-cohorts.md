@@ -1,5 +1,20 @@
 # Cohorts of 2020
 
+Harakeke 2020
+-----------
+
+### [Be Seasonable](https://beseasonable.com/)
+
+Be Seasonable is an app that helps people make sustainable food choices by making it easy to see what is in season, at low prices and other ethical concerns. Be Seasonable is a free website that tells you what produce is currently in season, the average monthly cost based on the Statistics NZ Food Price Index, and any ethical warnings we've identified for that produce.
+
+It does this by combining the average monthly costs of in-season produce with research into the environmental and ethical impacts of production.
+
+![](images/2020/be-seasonable.png)
+
+* [GitHub Repository](https://github.com/harakeke-2020/Final-Project-Be-Seasonable)
+
+
+
 Kahikatea 2020
 ---------
 
