@@ -16,17 +16,24 @@ Nikau 2018
 Buy My Kai is a web app that connects people through the food we grow in our backyard. If you have a green thumb and would like to share your produce with the community you can sign up as a Grower and list what produce you would like to sell or trade.
 If you're a foodie and on the hunt for local and fresh produce you can signup as an Eater and search for Growers in your neighbourhood.
 
-![](images/2018/buy-my-kai.png)
+<!-- Group members:
+*  -->
 
 * [GitHub Repository](https://github.com/nikau-2018/Buy-My-Kai)
+
+![](images/2018/buy-my-kai.png)
+
 
 ### [ALOT](https://alot.space/)
 
 A community hub that provides access to tools, reduces unnecessary consumption and empowers people to build, share & create in a sustainable way.
 
-![](images/2018/ALOT.png)
+<!-- Group members:
+*  -->
 
 * [GitHub Repository](https://github.com/nikau-2018/alot)
+
+![](images/2018/ALOT.png)
 
 
 Mamaku 2018
@@ -36,13 +43,20 @@ Mamaku 2018
 
 M4M is a non-profit organisation aimed at making it easier for people to help the the homeless in New Zealand.
 
-![](images/2018/meals-4-mates.png)
+<!-- Group members:
+*  -->
 
 * [GitHub Repository](https://github.com/mamaku-2018/Meals4Mates)
+
+![](images/2018/meals-4-mates.png)
+
 
 ### [Streetfeel](http://streetfeel.herokuapp.com/#/)
 
 Streelfeel is a digital space to help make sense of our collective emotions and experiences, reflecting particular ways of behaving, thinking and being.
+
+<!-- Group members:
+*  -->
 
 ![](images/2018/streetfeel.png)
 
@@ -56,9 +70,13 @@ Ruru 2018
 
 The Resistance is a game where players attempt to deduce one another's identities. The setting of the game is an imagined battle between a resistance group trying to overthrow the malignant government and the government spies infiltrating the resistance group.
 
-![](images/2018/the-persistance)
+<!-- Group members:
+*  -->
 
 * [GitHub Repository](https://github.com/ruru-bootcamp-2018/Persistance)
+
+![](images/2018/the-persistance)
+
 
 
 Kauri 2018
@@ -67,6 +85,9 @@ Kauri 2018
 ### [Pro Bono](http://pro-bono-test.herokuapp.com)
 
 Pro-bono was created for the Auckland Community Law Centre to create better connections between Lawyers and pro-bono cases.
+<!-- Group members:
+*  -->
+
 
 ![](images/2018/pro-bono.png)
 
@@ -75,6 +96,9 @@ Pro-bono was created for the Auckland Community Law Centre to create better conn
 ### [Loyalty](https://github.com/Kauri-2018/loyalty-web)
 
 A white label app for tracking customer loyalty to your business. Built in the case of Auckland Zoo and their Members of the Zoo loyalty club.
+
+<!-- Group members:
+*  -->
 
 ![](images/2018/loyalty-web.png)
 
@@ -88,6 +112,9 @@ Kokako 2018
 
 Mental health resources for those affected and their communities.
 
+<!-- Group members:
+*  -->
+
 ![](images/2018/embracing-blue.png)
 
 * [GitHub Repository](https://github.com/Kokako-2018/Embracing-Blue)
@@ -96,6 +123,9 @@ Mental health resources for those affected and their communities.
 
 AR Atua is an augmented reality app which places the god Tāwhirimātea on top of Mount Victoria. The web portion tells the legend of Tāwhirimātea, the background of our team, and helps transmit the spirit of the project by having a fully bilingual site where the english translations reveal themselves through active participation of the viewer. It is also built ontop of a database designed for translators.
 
+<!-- Group members:
+*  -->
+
 ![](images/2018/ar-atua.png)
 
 [GitHub Repository](https://github.com/l-suzuki/atua-web)
@@ -103,6 +133,9 @@ AR Atua is an augmented reality app which places the god Tāwhirimātea on top o
 ### [Shop Bro](http://shopbro.herokuapp.com/#/)
 
 Making sure you stick to your budget and smash your savings goals!
+
+<!-- Group members:
+*  -->
 
 ![](images/2018/shop-bro.png)
 
@@ -116,25 +149,43 @@ Harakeke 2018
 
 Mārama is a centralised platform for study and funding opportunities available in Aotearoa.
 
-![](images/2018/marama.png)
+Group members:
+* Kristina Muller
+* Emily Parkes
+* Tian Du Toit
+* Kimmi Rindel
+* Catherine Fromont
+* Elyse Wyatt
 
 * [GitHub Repository](https://github.com/harakeke-2018/marama)
+
+![](images/2018/marama.png)
+
 
 ### [DeltΔge](http://http://deltage.herokuapp.com/LiveApp)
 
 A cryptocurrency tool to help find and act on arbitrage opportunities.
 
-![](images/2018/deltage.png)
+<!-- Group members:
+*  -->
 
 * [GitHub Repository](https://github.com/TylerGriffin99/Deltage/tree/deployment)
+
+![](images/2018/deltage.png)
+
 
 ### [DRM](https://github.com/harakeke-2018/drm)
 
 Managing essential resources such as food, water, shelter in different disaster centers.
 
-![](images/2018/drm.png)
+<!-- Group members:
+*  -->
 
 * [GitHub Repository](https://github.com/harakeke-2018/drm)
+
+![](images/2018/drm.png)
+
+
 
 Kahu 2018
 ---------
@@ -143,6 +194,9 @@ Kahu 2018
 
 Have no energy to be creative enough to think of what to cook? Pantry to Plate is an app that could give you ideas and plan out meals around some of the food that needs to be eaten!
 
-![](images/2018/pantry-to-plate.png)
+<!-- Group members:
+*  -->
 
 * [GitHub Repository](https://github.com/kahu-2018/anything-but-a-pantry-manager)
+
+![](images/2018/pantry-to-plate.png)

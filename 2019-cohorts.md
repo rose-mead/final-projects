@@ -25,18 +25,26 @@ Harakeke 2019
 
 FoodMood allows a user to record and monitor the impact certain foods has on not only their physical, but also their emotional state. It is a tool designed to assist any user to navigate their emotional relationship with food.
 
-![](images/2019/food-mood.png)
+<!-- Group members:
+*  -->
 
 * [GitHub Repository](https://github.com/harakeke-2019/food-mood)
+
+![](images/2019/food-mood.png)
+
 
 
 ### [Feke](https://github.com/harakeke-2019/feke)
 
 Navigate learning vagahau Niue with your very own feke friend.
 
-![](images/2019/feke.png)
+<!-- Group members:
+*  -->
 
 * [GitHub Repository](https://github.com/harakeke-2019/feke)
+
+![](images/2019/feke.png)
+
 
 Kahu 2019
 ---------
@@ -49,18 +57,25 @@ Kahikatea 2019
 
 Helping children learn about the importance of good decision making.
 
-![](images/2016/kidskash.png)
+<!-- Group members:
+*  -->
 
 * [GitHub Repository](https://github.com/kahikatea-2019/kidskash)
+
+![](images/2016/kidskash.png)
 
 
 ### [Spacey](https://github.com/kahikatea-2019/SPACEY-2.0)
 
 A typical spaced repetition system.
 
-![](images/2016/spacey.png)
+<!-- Group members:
+*  -->
 
 * [GitHub Repository](https://github.com/kahikatea-2019/SPACEY-2.0)
+
+![](images/2016/spacey.png)
+
 
 
 Piwakawaka 2019
@@ -122,6 +137,6 @@ Group members:
 * Tosca Wilson
 * Robert Cummins
 
-![](images/2019/splinter.png)
-
 * [GitHub Repository](https://github.com/hihi-2019/splinter)
+
+![](images/2019/splinter.png)

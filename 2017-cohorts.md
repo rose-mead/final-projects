@@ -15,17 +15,19 @@ Miromiro 2017
 
 A place to promote vegetarian cooking and eating, where you can create a profile, and earn points by adding and sharing recipes.
 
+* [GitHub Repository](https://github.com/Kai-Time/kai-time)
+
 ![](images/2017/kai-time.png)
 
-* [GitHub Repository](https://github.com/Kai-Time/kai-time)
 
 ### [Spoken, not Stirred](https://miromiro-grad-project.herokuapp.com/)
 
 It's time to see if you've got what it takes to foot it with your favourite movie stars, as they deliver some of the best one-liners of all time... This is the ultimate party game.
 
+* [GitHub Repository](https://github.com/don-harris/final-project)
+
 ![](images/2017/spoken-not-stirred.png)
 
-* [GitHub Repository](https://github.com/don-harris/final-project)
 
 
 Horoeka 2017
@@ -35,9 +37,10 @@ Horoeka 2017
 
 A web app built to help charities connect with businesses to provide food for those who need it, and reduce food waste.
 
+* [GitHub Repository](https://github.com/james-inglis-01/feedr)
+
 ![](images/2017/feedr.png)
 
-* [GitHub Repository](https://github.com/james-inglis-01/feedr)
 
 
 Kea 2017
@@ -47,9 +50,10 @@ Kea 2017
 
 The uber app for dog walkers.
 
+* [GitHub Repository](https://github.com/AnnahGerletti/dog-go)
+
 ![](images/2017/dog-go.png)
 
-* [GitHub Repository](https://github.com/AnnahGerletti/dog-go)
 
 
 Pohutukawa 2017
@@ -59,17 +63,19 @@ Pohutukawa 2017
 
 Booking app for Te Whare Piringa Community Centre.
 
+* [GitHub Repository](https://github.com/Jae-Huh/te-whare-piringa-booking)
+
 ![](images/2017/te-whare-piringa-booking.png)
 
-* [GitHub Repository](https://github.com/Jae-Huh/te-whare-piringa-booking)
 
 ### [SkillHub](https://github.com/Sam-Houlahan/skillhub)
 
 SkillHub is a community for people to share, discover and develop skills together. 
 
+* [GitHub Repository](https://github.com/Sam-Houlahan/skillhub)
+
 ![](images/2017/skillhub)
 
-* [GitHub Repository](https://github.com/Sam-Houlahan/skillhub)
 
 
 Hihi 2017
@@ -81,33 +87,37 @@ Hihi 2017
 
 Gitmaster is an interactive point and click adventure game that demonstrates the havoc that can be caused by pushing straight to master. The player must navigate through a series of different locations, collecting items and using them to solve small puzzles to win. The aim of the game is to blow up the React Core and exit the base in the Escape Pod.
 
+* [GitHub Repository](https://github.com/pushmeproductions/gitmaster)
+
 ![](images/2017/gitmaster.png)
 
-* [GitHub Repository](https://github.com/pushmeproductions/gitmaster)
 
 ### [Upstage](http://up-stage.herokuapp.com/#/)
 
 An awesome app that generates a Spotify playlist based on gigs you wanna checkout.
 
+* [GitHub Repository](https://github.com/Giggify/Upstage)
+
 ![](images/2017/upstage.png)
 
-* [GitHub Repository](https://github.com/Giggify/Upstage)
 
 ### [Gurgl](https://github.com/EDA-Gurgl/gurgl)
 
 Repurposing clothing for ever-growing kids.
 
+* [GitHub Repository](https://github.com/EDA-Gurgl/gurgl)
+
 ![](images/2017/gurgl.png)
 
-* [GitHub Repository](https://github.com/EDA-Gurgl/gurgl)
 
 ### [RecycleHack](http://recyclehack.herokuapp.com/#/)
 
 Making recycling easier for Wellingtonians.
 
+* [GitHub Repository](https://github.com/sarah-due/TeamHoppers)
+
 ![](images/2017/recyclehack.png)
 
-* [GitHub Repository](https://github.com/sarah-due/TeamHoppers)
 
 Matai 2017
 ----------
@@ -116,18 +126,6 @@ Matai 2017
 
 This website enables users to vote and comment on government bills and legislation.
 
-![](images/2017/bills-world.png)
-
 * [GitHub Repository](https://github.com/matai-2016/Bills-World)
 
-
-<!-- Kakapo 2017
------------
-
-### []() -->
-
-<!-- description -->
-
-<!-- ![](images/2017/) -->
-
-<!-- * [GitHub Repository](https://github.com/kakapo-2017/) -->
+![](images/2017/bills-world.png)
