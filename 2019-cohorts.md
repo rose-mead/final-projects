@@ -92,15 +92,88 @@ Kotare 2019
 
 Pohutukawa 2019
 ---------
+### [ChatWell](https://github.com/pohutukawa-2019/ChatWell)
 
+Sometimes you just need to talk to someone. We can help with that.
 
+Group members:
+* Iris Riddell
+* M Hodges
+* Marvin C
+* Katrina Turner
+* Henry Peti
+* Raemon
+
+[GitHub Repository](https://github.com/pohutukawa-2019/ChatWell)
+
+![](images/2019/chatwell.png)
+
+### [BucketBook](https://github.com/pohutukawa-2019/BucketBook)
+
+Bucket Book is a travel based bucket list app that aims to help you achieve your travel goals.
+
+Group members:
+* Sam Bowering
+* Jeremy Magill
+* James Wylie
+* Angela Yang
+* James S
+* Nikolai Talamahina
+
+[GitHub Repository](https://github.com/pohutukawa-2019/BucketBook)
+
+![](images/2019/bucketbook.png)
 Roa 2019
 ---------
 
 
 Horoeka 2019
 ---------
+### [FlatWarming](https://github.com/horoeka-2019/flatwarming)
 
+For too long tenants have had a bad rep. Lets change that.\
+By consolidating all the flat admin into one easy to access location, we hope to mend the reputation of tenants, and create a better relationship between tenants and landlords.
+
+Group members:
+* Jackie Shu
+* Sunny Niu
+* Eloise McIntyre
+* Ashleigh Ah Ta
+
+[GitHub Repository](https://github.com/horoeka-2019/flatwarming)
+
+![](images/2019/flatwarming.png)
+
+### [He Pokai-Manu](https://github.com/horoeka-2019/Manu)
+
+He Pokai-Manu is a treasure-hunt game for birds in Aotearoa. We aim to help younger Kiwis learn more about our bird life in an exciting way, while getting them outside and interested in nature.
+
+Group members:
+* Jill Glass
+* Roman Mitch
+* Adam Cowie
+* Peter Robinson
+
+[GitHub Repository](https://github.com/horoeka-2019/Manu)
+
+![](images/2019/manu.png)
+
+### [Wā](https://github.com/horoeka-2019/Wa)
+
+Wā uses Mahi to facilitate the give and take between people in the community — members exchange wā/time when a mahi is offered or completed. Wā is a community-based platform where you can xchange the gift of time with people in your community, aiming to build strong connections between people. Become more aware of the skills you have and what you can offer and discover what people around you can offer in return. 
+
+
+Group members:
+* Andria Hibe
+* Jeya Raniga
+* Suzana Melo Moares
+* Marina Tateoka
+* Te-Piha
+* Samuel Looi
+
+[GitHub Repository](https://github.com/horoeka-2019/Wa)
+
+![](images/2019/wa.png)
 
 Hihi 2019
 ---------
