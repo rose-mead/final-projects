@@ -20,6 +20,8 @@ Group members:
 * Lane Le Prevost-Smith
 * Aubrey Te Kanawa
 * Evandah Steadman
+* Jason Simpson
+* Riki Hoeata
 
 [GitHub Repository](https://github.com/harakeke-2019/track-a-grad)
 
@@ -30,8 +32,12 @@ Group members:
 
 FoodMood allows a user to record and monitor the impact certain foods has on not only their physical, but also their emotional state. It is a tool designed to assist any user to navigate their emotional relationship with food.
 
-<!-- Group members:
-*  -->
+Group members:
+* Jessica Morgan
+* Francine Burling-Claridge
+* Ari Thompson
+* Ben Little
+* Ngapeita Matehaere Leilua-Gotz
 
 [GitHub Repository](https://github.com/harakeke-2019/food-mood)
 
@@ -43,8 +49,12 @@ FoodMood allows a user to record and monitor the impact certain foods has on not
 
 Navigate learning vagahau Niue with your very own feke friend.
 
-<!-- Group members:
-*  -->
+Group members:
+* Rebecca Zhang
+* Fetuolemoana Tamapeau
+* Micah Peautagi
+* Jenny Fang
+* Grant Rigby
 
 [GitHub Repository](https://github.com/harakeke-2019/feke)
 
@@ -53,7 +63,17 @@ Navigate learning vagahau Niue with your very own feke friend.
 
 Kahu 2019
 ---------
+<!-- 
+### [Name](https://github.com/)
 
+description
+
+Group members:
+* 
+
+[GitHub Repository](https://github.com/l)
+
+![](images/2019/.png) -->
 
 Kahikatea 2019
 ---------
@@ -88,15 +108,46 @@ Group members:
 
 Piwakawaka 2019
 ---------
+<!-- 
+### [Name](https://github.com/)
+
+description
+
+Group members:
+* 
+
+[GitHub Repository](https://github.com/l)
+
+![](images/2019/.png) -->
 
 
 Matai 2019
 ---------
+<!-- 
+### [Name](https://github.com/)
 
+description
+
+Group members:
+* 
+
+[GitHub Repository](https://github.com/l)
+
+![](images/2019/.png) -->
 
 Kotare 2019
 ---------
+<!-- 
+### [Name](https://github.com/)
 
+description
+
+Group members:
+* 
+
+[GitHub Repository](https://github.com/l)
+
+![](images/2019/.png) -->
 
 Pohutukawa 2019
 ---------
@@ -131,9 +182,20 @@ Group members:
 [GitHub Repository](https://github.com/pohutukawa-2019/BucketBook)
 
 ![](images/2019/bucketbook.png)
+
 Roa 2019
 ---------
+<!-- 
+### [Name](https://github.com/)
 
+description
+
+Group members:
+* 
+
+[GitHub Repository](https://github.com/l)
+
+![](images/2019/.png) -->
 
 Horoeka 2019
 ---------
@@ -188,6 +250,8 @@ Hihi 2019
 
 ### [Foraged and Found]()
 
+<!-- description  -->
+
 Group members:
 * Freya Davies
 * Sophie Scott-Maunder
@@ -197,8 +261,13 @@ Group members:
 * Caitlin Potter
 * Nisida Azzalini
 
+<!-- [GitHub Repository](https://github.com/l)
+
+![](images/2019/.png) -->
 
 ### [Quizzical]()
+
+<!-- description  -->
 
 Group members:
 * Cass Guinut 
@@ -206,10 +275,13 @@ Group members:
 * Ethan O'Brien
 * Fraser Callum
 
+<!-- [GitHub Repository](https://github.com/l)
+
+![](images/2019/.png) -->
+
 ### [Splinter]()
 
 Keeping track of group expenditures can be tough and awkward.
-
 This is an app that helps to track spending and divide and settle the bills.
 
 Group members:
