@@ -16,9 +16,14 @@ Harakeke 2019
 
  A web portal for Enspiral Dev Academy alumni to build CV profiles to advertise their job availability and enables employers to recruit from EDA, and allows EDA to facilitate the relationship.
 
-![](images/2019/tracker-grad.png)
+Group members:
+* Lane Le Prevost-Smith
+* Aubrey Te Kanawa
+* Evandah Steadman
 
 [GitHub Repository](https://github.com/harakeke-2019/track-a-grad)
+
+![](images/2019/tracker-grad.png)
 
 
 ### [FoodMood](https://github.com/harakeke-2019/food-mood)
@@ -57,8 +62,10 @@ Kahikatea 2019
 
 Helping children learn about the importance of good decision making.
 
-<!-- Group members:
-*  -->
+Group members:
+* Bam Bam Bialostoki
+* Ete
+* Philip Ji
 
 [GitHub Repository](https://github.com/kahikatea-2019/kidskash)
 
@@ -69,8 +76,9 @@ Helping children learn about the importance of good decision making.
 
 A typical spaced repetition system.
 
-<!-- Group members:
-*  -->
+Group members:
+* Bradley Wheeler
+* Ihaka Pink
 
 [GitHub Repository](https://github.com/kahikatea-2019/SPACEY-2.0)
 
@@ -98,11 +106,11 @@ Sometimes you just need to talk to someone. We can help with that.
 
 Group members:
 * Iris Riddell
-* M Hodges
-* Marvin C
+* Michael Hodges
+* Marvin Coronel
 * Katrina Turner
 * Henry Peti
-* Raemon
+* Raemon Matene
 
 [GitHub Repository](https://github.com/pohutukawa-2019/ChatWell)
 
@@ -117,7 +125,7 @@ Group members:
 * Jeremy Magill
 * James Wylie
 * Angela Yang
-* James S
+* James Sanday
 * Nikolai Talamahina
 
 [GitHub Repository](https://github.com/pohutukawa-2019/BucketBook)
@@ -168,7 +176,7 @@ Group members:
 * Jeya Raniga
 * Suzana Melo Moares
 * Marina Tateoka
-* Te-Piha
+* Te-Piha Niha
 * Samuel Looi
 
 [GitHub Repository](https://github.com/horoeka-2019/Wa)
