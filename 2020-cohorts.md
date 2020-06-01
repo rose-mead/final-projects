@@ -66,7 +66,6 @@ Cruel fate, that it be on opposing sides of the field...
 Group members:
 * Karel Fourie
 * Matthew Kalopulu
-* Raymond Leung
 * Stan Gogan
 * Tom Clayton
 * Alicia Lu
@@ -87,6 +86,7 @@ Group members:
 * Lucas Santana
 * David Dumolo
 * Chris Alba
+* Raymond Leung
 
 [GitHub Repository](https://github.com/malyz01/pennyWise)
 
