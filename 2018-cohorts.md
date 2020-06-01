@@ -16,8 +16,11 @@ Nikau 2018
 Buy My Kai is a web app that connects people through the food we grow in our backyard. If you have a green thumb and would like to share your produce with the community you can sign up as a Grower and list what produce you would like to sell or trade.
 If you're a foodie and on the hunt for local and fresh produce you can signup as an Eater and search for Growers in your neighbourhood.
 
-<!-- Group members:
-*  -->
+Group members:
+* Emma Ashley
+* Lauren Hart
+* Elizaveta Serous
+* Zaine Kingi
 
 [GitHub Repository](https://github.com/nikau-2018/Buy-My-Kai)
 
@@ -28,8 +31,12 @@ If you're a foodie and on the hunt for local and fresh produce you can signup as
 
 A community hub that provides access to tools, reduces unnecessary consumption and empowers people to build, share & create in a sustainable way.
 
-<!-- Group members:
-*  -->
+Group members:
+* James Built
+* Aimee Coxhead
+* George Hardy
+* Tommy Hall
+* Elisa Edwards
 
 [GitHub Repository](https://github.com/nikau-2018/alot)
 
@@ -43,8 +50,12 @@ Mamaku 2018
 
 M4M is a non-profit organisation aimed at making it easier for people to help the the homeless in New Zealand.
 
-<!-- Group members:
-*  -->
+Group members:
+* Anthony Xiao
+* Sam 
+* Cornelia Schultz
+* Bronwyn Cotter
+* Indigo Phillips
 
 [GitHub Repository](https://github.com/mamaku-2018/Meals4Mates)
 
@@ -55,8 +66,12 @@ M4M is a non-profit organisation aimed at making it easier for people to help th
 
 Streelfeel is a digital space to help make sense of our collective emotions and experiences, reflecting particular ways of behaving, thinking and being.
 
-<!-- Group members:
-*  -->
+Group members:
+* Matt McGregor
+* Michael Mitchell
+* Caitlyn Bailey
+* Rachael Peri
+* Shane Park
 
 ![](images/2018/streetfeel.png)
 
@@ -85,24 +100,33 @@ Kauri 2018
 ### [Pro Bono](http://pro-bono-test.herokuapp.com)
 
 Pro-bono was created for the Auckland Community Law Centre to create better connections between Lawyers and pro-bono cases.
-<!-- Group members:
-*  -->
 
+Group members:
+* Cameron Probert
+* Sarah McLaughlin
+* Zoe Barron
+* Kale Hembrow
+
+
+[GitHub Repository](https://github.com/Kauri-2018/pro-bono)
 
 ![](images/2018/pro-bono.png)
 
-[GitHub Repository](https://github.com/Kauri-2018/pro-bono)
 
 ### [Loyalty](https://github.com/Kauri-2018/loyalty-web)
 
 A white label app for tracking customer loyalty to your business. Built in the case of Auckland Zoo and their Members of the Zoo loyalty club.
 
-<!-- Group members:
-*  -->
+Group members:
+* Frank Xu
+* Zoe L
+* Mayur R
+* Victoria Kaihe
+
+GitHub Repository: [Web](https://github.com/Kauri-2018/loyalty-web) and [Mobile](https://github.com/Kauri-2018/loyalty-app)
 
 ![](images/2018/loyalty-web.png)
 
-* GitHub Repository: [Web](https://github.com/Kauri-2018/loyalty-web) and [Mobile](https://github.com/Kauri-2018/loyalty-app)
 
 
 Kokako 2018
@@ -115,9 +139,9 @@ Mental health resources for those affected and their communities.
 <!-- Group members:
 *  -->
 
-![](images/2018/embracing-blue.png)
-
 [GitHub Repository](https://github.com/Kokako-2018/Embracing-Blue)
+
+![](images/2018/embracing-blue.png)
 
 ### [AR Atua](http://atua-web.herokuapp.com/)
 
@@ -126,9 +150,10 @@ AR Atua is an augmented reality app which places the god Tāwhirimātea on top o
 <!-- Group members:
 *  -->
 
+[GitHub Repository](https://github.com/l-suzuki/atua-web)
+
 ![](images/2018/ar-atua.png)
 
-[GitHub Repository](https://github.com/l-suzuki/atua-web)
 
 ### [Shop Bro](http://shopbro.herokuapp.com/#/)
 
@@ -137,9 +162,10 @@ Making sure you stick to your budget and smash your savings goals!
 <!-- Group members:
 *  -->
 
+[GitHub Repository](https://github.com/Kokako-2018/ShopBro-2.0-mobile) 
+
 ![](images/2018/shop-bro.png)
 
-[GitHub Repository](https://github.com/Kokako-2018/ShopBro-2.0-mobile) 
 
 
 Harakeke 2018
@@ -166,8 +192,12 @@ Group members:
 
 A cryptocurrency tool to help find and act on arbitrage opportunities.
 
-<!-- Group members:
-*  -->
+Group members:
+* Tyler Griffin
+* Tim Tolley
+* Adam Kuhn
+* Maddie Brighouse
+* Peter Sim
 
 [GitHub Repository](https://github.com/TylerGriffin99/Deltage/tree/deployment)
 
@@ -178,8 +208,12 @@ A cryptocurrency tool to help find and act on arbitrage opportunities.
 
 Managing essential resources such as food, water, shelter in different disaster centers.
 
-<!-- Group members:
-*  -->
+Group members:
+* Ethan Smith
+* Judy Ting-Edwards
+* Julia Niall
+* Belma Gaukrodger
+
 
 [GitHub Repository](https://github.com/harakeke-2018/drm)
 
