@@ -135,7 +135,7 @@ Group members:
 
 ![](images/2019/.png) -->
 
-### [Watch Better](https://github.com/matai-2019/watch-better/tree/development)
+### [Watch Better](https://github.com/matai-2019/watch-better)
 
 The diverse movie database.
 
@@ -147,9 +147,26 @@ Group members:
 * Jared Tasker
 * Jennie Watson.
 
-[GitHub Repository](https://github.com/pohutukawa-2019/watch-better)
+[GitHub Repository](https://github.com/matai-2019/watch-better)
 
 ![](images/2019/watch-better.png)
+
+
+### [Polyglota](https://github.com/matai-2019/polyglota)
+
+A place Where you can find your language peer.
+
+Group members:
+* Ash Foster
+* David Nicholson
+* Tamari Gray
+* Noel Soong
+* Rahul Lal
+
+
+[GitHub Repository](https://github.com/matai-2019/polyglota)
+
+![](images/2019/polyglota.png)
 
 Kotare 2019
 ---------
