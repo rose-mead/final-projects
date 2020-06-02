@@ -135,6 +135,22 @@ Group members:
 
 ![](images/2019/.png) -->
 
+### [Watch Better](https://github.com/matai-2019/watch-better/tree/development)
+
+The diverse movie database.
+
+Group members:
+* Anisha Dhana
+* David Brown
+* Raaya Pathare
+* Joanna Klimas
+* Jared Tasker
+* Jennie Watson.
+
+[GitHub Repository](https://github.com/pohutukawa-2019/watch-better)
+
+![](images/2019/watch-better.png)
+
 Kotare 2019
 ---------
 <!-- 
