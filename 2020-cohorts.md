@@ -1,11 +1,11 @@
 # Cohorts of 2020
 
-| | Auckland | Wellington | Online
-|---|---|---|
-| 1    | [Harakeke](#harakeke-2020)   | [Kahu](#kahu-2019)             | filler |
-| 2    | [Kahikatea](#kahikatea-2020) | [Piwakawaka](#piwakawaka-2020) | filler |
-| 3    | <!--[Matai](#matai-2020) -->  | [Kotare](#kotare-2020)         | filler |
-| 4    | <!--[Pohutukawa](#pohutukawa-2020)--> |<!--[Roa](#roa-2020)--> | [Manaia](#manaia-2020 |
+| | Auckland | Wellington | Online |
+|---|---|---|---|
+| 1    | [Harakeke](#harakeke-2020)   | [Kahu](#kahu-2019)             |  |
+| 2    | [Kahikatea](#kahikatea-2020) | [Piwakawaka](#piwakawaka-2020) |  |
+| 3    | <!--[Matai](#matai-2020) -->  | [Kotare](#kotare-2020)         |  |
+| 4    | <!--[Pohutukawa](#pohutukawa-2020)--> |<!--[Roa](#roa-2020)--> | [Manaia](#manaia-2020) |
 | 5    | <!--[Horoeka](#horoeka-2020) -->    | [Hihi](#hihi-2020)       | [Aihi](#aihi-2020)  |
 
 Harakeke 2020
